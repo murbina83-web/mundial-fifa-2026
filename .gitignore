@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+*.pyo
+.env
+_matches_raw.json
+seed_data.py
+build_mobile.py
+instalar.bat
+iniciar.bat
+instalar.sh
