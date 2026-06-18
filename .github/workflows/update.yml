@@ -1,0 +1,38 @@
+name: Actualizar resultados Mundial 2026
+
+on:
+  schedule:
+    # Cada 2 horas (Fase de grupos tiene partidos todo el día)
+    - cron: '0 */2 * * *'
+  workflow_dispatch:  # También se puede lanzar manualmente
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Obtener datos desde ESPN API
+        run: python scraper.py
+
+      - name: Reconstruir app móvil
+        run: python build_mobile.py
+
+      - name: Publicar cambios
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add matches.json FIFA2026_movil.html
+          if git diff --cached --quiet; then
+            echo "Sin cambios nuevos, nada que publicar."
+          else
+            git commit -m "Actualizar resultados $(date -u '+%Y-%m-%d %H:%M UTC')"
+            git push
+          fi

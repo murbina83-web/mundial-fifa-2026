@@ -44,10 +44,6 @@ def api_refresh():
     global _scraping
     if _scraping:
         return jsonify({"status": "already_running"})
-    try:
-        import playwright  # noqa: F401
-    except ImportError:
-        return jsonify({"status": "error", "message": "Playwright no instalado. Ejecuta: pip install playwright && playwright install chromium"}), 400
     t = threading.Thread(target=_refresh_bg, daemon=True)
     t.start()
     return jsonify({"status": "started"})

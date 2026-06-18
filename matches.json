@@ -7,23 +7,23 @@
     "scoreAway": "0",
     "away": "Sudáfrica",
     "phase": "Primera fase",
-    "group": "Grupo A",
-    "stadium": "Estadio Ciudad de México",
-    "city": "(Ciudad de México)",
-    "href": "https://www.fifa.com/es/match-centre/match/17/285023/289273/400021443"
+    "group": "",
+    "stadium": "Estadio Banorte",
+    "city": "(Mexico City)",
+    "href": "https://www.fifa.com/es/match-centre/match/760415"
   },
   {
     "date": "jueves 11 junio 2026",
-    "home": "República de Corea",
+    "home": "South Korea",
     "scoreHome": "2",
     "status": "FINAL",
     "scoreAway": "1",
-    "away": "Chequia",
+    "away": "Czechia",
     "phase": "Primera fase",
-    "group": "Grupo A",
-    "stadium": "Estadio Guadalajara",
+    "group": "",
+    "stadium": "Estadio Akron",
     "city": "(Guadalajara)",
-    "href": "https://www.fifa.com/es/match-centre/match/17/285023/289273/400021441"
+    "href": "https://www.fifa.com/es/match-centre/match/760414"
   },
   {
     "date": "viernes 12 junio 2026",
@@ -31,12 +31,12 @@
     "scoreHome": "1",
     "status": "FINAL",
     "scoreAway": "1",
-    "away": "Bosnia y Herzegovina",
+    "away": "Bosnia-Herzegovina",
     "phase": "Primera fase",
-    "group": "Grupo B",
-    "stadium": "Estadio de Toronto",
+    "group": "",
+    "stadium": "BMO Field",
     "city": "(Toronto)",
-    "href": "https://www.fifa.com/es/match-centre/match/17/285023/289273/400021449"
+    "href": "https://www.fifa.com/es/match-centre/match/760416"
   },
   {
     "date": "viernes 12 junio 2026",
@@ -46,10 +46,10 @@
     "scoreAway": "1",
     "away": "Paraguay",
     "phase": "Primera fase",
-    "group": "Grupo D",
-    "stadium": "Estadio Los Angeles",
-    "city": "(Los Ángeles)",
-    "href": "https://www.fifa.com/es/match-centre/match/17/285023/289273/400021458"
+    "group": "",
+    "stadium": "SoFi Stadium",
+    "city": "(Inglewood, California)",
+    "href": "https://www.fifa.com/es/match-centre/match/760417"
   },
   {
     "date": "sábado 13 junio 2026",
@@ -59,10 +59,10 @@
     "scoreAway": "1",
     "away": "Suiza",
     "phase": "Primera fase",
-    "group": "Grupo B",
-    "stadium": "Estadio de la Bahía de San Francisco",
-    "city": "(Área de la Bahía de San Francisco)",
-    "href": "https://www.fifa.com/es/match-centre/match/17/285023/289273/400021447"
+    "group": "",
+    "stadium": "Levi's Stadium",
+    "city": "(Santa Clara, California)",
+    "href": "https://www.fifa.com/es/match-centre/match/760420"
   },
   {
     "date": "sábado 13 junio 2026",
@@ -72,10 +72,10 @@
     "scoreAway": "1",
     "away": "Marruecos",
     "phase": "Primera fase",
-    "group": "Grupo C",
-    "stadium": "Estadio Nueva York/Nueva Jersey",
-    "city": "(Nueva Jersey)",
-    "href": "https://www.fifa.com/es/match-centre/match/17/285023/289273/400021456"
+    "group": "",
+    "stadium": "MetLife Stadium",
+    "city": "(East Rutherford, New Jersey)",
+    "href": "https://www.fifa.com/es/match-centre/match/760419"
   },
   {
     "date": "sábado 13 junio 2026",
@@ -85,10 +85,10 @@
     "scoreAway": "1",
     "away": "Escocia",
     "phase": "Primera fase",
-    "group": "Grupo C",
-    "stadium": "Estadio Boston",
-    "city": "(Boston)",
-    "href": "https://www.fifa.com/es/match-centre/match/17/285023/289273/400021453"
+    "group": "",
+    "stadium": "Gillette Stadium",
+    "city": "(Foxborough, Massachusetts)",
+    "href": "https://www.fifa.com/es/match-centre/match/760418"
   },
   {
     "date": "sábado 13 junio 2026",
@@ -96,12 +96,12 @@
     "scoreHome": "2",
     "status": "FINAL",
     "scoreAway": "0",
-    "away": "Turquía",
+    "away": "Türkiye",
     "phase": "Primera fase",
-    "group": "Grupo D",
-    "stadium": "Estadio BC Place Vancouver",
+    "group": "",
+    "stadium": "BC Place",
     "city": "(Vancouver)",
-    "href": "https://www.fifa.com/es/match-centre/match/17/285023/289273/400021463"
+    "href": "https://www.fifa.com/es/match-centre/match/760421"
   },
   {
     "date": "domingo 14 junio 2026",
@@ -109,12 +109,12 @@
     "scoreHome": "7",
     "status": "FINAL",
     "scoreAway": "1",
-    "away": "Curazao",
+    "away": "Curaçao",
     "phase": "Primera fase",
-    "group": "Grupo E",
-    "stadium": "Estadio Houston",
-    "city": "(Houston)",
-    "href": "https://www.fifa.com/es/match-centre/match/17/285023/289273/400021464"
+    "group": "",
+    "stadium": "NRG Stadium",
+    "city": "(Houston, Texas)",
+    "href": "https://www.fifa.com/es/match-centre/match/760422"
   },
   {
     "date": "domingo 14 junio 2026",
@@ -124,10 +124,10 @@
     "scoreAway": "2",
     "away": "Japón",
     "phase": "Primera fase",
-    "group": "Grupo F",
-    "stadium": "Estadio Dallas",
-    "city": "(Dallas)",
-    "href": "https://www.fifa.com/es/match-centre/match/17/285023/289273/400021470"
+    "group": "",
+    "stadium": "AT&T Stadium",
+    "city": "(Arlington, Texas)",
+    "href": "https://www.fifa.com/es/match-centre/match/760425"
   },
   {
     "date": "domingo 14 junio 2026",
@@ -137,10 +137,10 @@
     "scoreAway": "0",
     "away": "Ecuador",
     "phase": "Primera fase",
-    "group": "Grupo E",
-    "stadium": "Estadio Filadelfia",
-    "city": "(Filadelfia)",
-    "href": "https://www.fifa.com/es/match-centre/match/17/285023/289273/400021467"
+    "group": "",
+    "stadium": "Lincoln Financial Field",
+    "city": "(Philadelphia, Pennsylvania)",
+    "href": "https://www.fifa.com/es/match-centre/match/760423"
   },
   {
     "date": "domingo 14 junio 2026",
@@ -150,10 +150,10 @@
     "scoreAway": "1",
     "away": "Túnez",
     "phase": "Primera fase",
-    "group": "Grupo F",
-    "stadium": "Estadio Monterrey",
-    "city": "(Monterrey)",
-    "href": "https://www.fifa.com/es/match-centre/match/17/285023/289273/400021474"
+    "group": "",
+    "stadium": "Estadio BBVA",
+    "city": "(Guadalupe)",
+    "href": "https://www.fifa.com/es/match-centre/match/760424"
   },
   {
     "date": "lunes 15 junio 2026",
@@ -163,10 +163,10 @@
     "scoreAway": "0",
     "away": "Islas de Cabo Verde",
     "phase": "Primera fase",
-    "group": "Grupo H",
-    "stadium": "Estadio Atlanta",
-    "city": "(Atlanta)",
-    "href": "https://www.fifa.com/es/match-centre/match/17/285023/289273/400021482"
+    "group": "",
+    "stadium": "Mercedes-Benz Stadium",
+    "city": "(Atlanta, Georgia)",
+    "href": "https://www.fifa.com/es/match-centre/match/760428"
   },
   {
     "date": "lunes 15 junio 2026",
@@ -176,10 +176,10 @@
     "scoreAway": "1",
     "away": "Egipto",
     "phase": "Primera fase",
-    "group": "Grupo G",
-    "stadium": "Estadio de Seattle",
-    "city": "(Seattle)",
-    "href": "https://www.fifa.com/es/match-centre/match/17/285023/289273/400021478"
+    "group": "",
+    "stadium": "Lumen Field",
+    "city": "(Seattle, Washington)",
+    "href": "https://www.fifa.com/es/match-centre/match/760426"
   },
   {
     "date": "lunes 15 junio 2026",
@@ -189,23 +189,23 @@
     "scoreAway": "1",
     "away": "Uruguay",
     "phase": "Primera fase",
-    "group": "Grupo H",
-    "stadium": "Estadio Miami",
-    "city": "(Miami)",
-    "href": "https://www.fifa.com/es/match-centre/match/17/285023/289273/400021486"
+    "group": "",
+    "stadium": "Hard Rock Stadium",
+    "city": "(Miami Gardens, Florida)",
+    "href": "https://www.fifa.com/es/match-centre/match/760429"
   },
   {
     "date": "lunes 15 junio 2026",
-    "home": "RI de Irán",
+    "home": "Iran",
     "scoreHome": "2",
     "status": "FINAL",
     "scoreAway": "2",
     "away": "Nueva Zelanda",
     "phase": "Primera fase",
-    "group": "Grupo G",
-    "stadium": "Estadio Los Angeles",
-    "city": "(Los Ángeles)",
-    "href": "https://www.fifa.com/es/match-centre/match/17/285023/289273/400021476"
+    "group": "",
+    "stadium": "SoFi Stadium",
+    "city": "(Inglewood, California)",
+    "href": "https://www.fifa.com/es/match-centre/match/760427"
   },
   {
     "date": "martes 16 junio 2026",
@@ -215,10 +215,10 @@
     "scoreAway": "1",
     "away": "Senegal",
     "phase": "Primera fase",
-    "group": "Grupo I",
-    "stadium": "Estadio Nueva York/Nueva Jersey",
-    "city": "(Nueva Jersey)",
-    "href": "https://www.fifa.com/es/match-centre/match/17/285023/289273/400021490"
+    "group": "",
+    "stadium": "MetLife Stadium",
+    "city": "(East Rutherford, New Jersey)",
+    "href": "https://www.fifa.com/es/match-centre/match/760432"
   },
   {
     "date": "martes 16 junio 2026",
@@ -228,10 +228,10 @@
     "scoreAway": "4",
     "away": "Noruega",
     "phase": "Primera fase",
-    "group": "Grupo I",
-    "stadium": "Estadio Boston",
-    "city": "(Boston)",
-    "href": "https://www.fifa.com/es/match-centre/match/17/285023/289273/400021488"
+    "group": "",
+    "stadium": "Gillette Stadium",
+    "city": "(Foxborough, Massachusetts)",
+    "href": "https://www.fifa.com/es/match-centre/match/760430"
   },
   {
     "date": "martes 16 junio 2026",
@@ -241,10 +241,10 @@
     "scoreAway": "0",
     "away": "Argelia",
     "phase": "Primera fase",
-    "group": "Grupo J",
-    "stadium": "Estadio Kansas City",
-    "city": "(Kansas City)",
-    "href": "https://www.fifa.com/es/match-centre/match/17/285023/289273/400021496"
+    "group": "",
+    "stadium": "GEHA Field at Arrowhead Stadium",
+    "city": "(Kansas City, Missouri)",
+    "href": "https://www.fifa.com/es/match-centre/match/760433"
   },
   {
     "date": "martes 16 junio 2026",
@@ -254,10 +254,10 @@
     "scoreAway": "1",
     "away": "Jordania",
     "phase": "Primera fase",
-    "group": "Grupo J",
-    "stadium": "Estadio de la Bahía de San Francisco",
-    "city": "(Área de la Bahía de San Francisco)",
-    "href": "https://www.fifa.com/es/match-centre/match/17/285023/289273/400021498"
+    "group": "",
+    "stadium": "Levi's Stadium",
+    "city": "(Santa Clara, California)",
+    "href": "https://www.fifa.com/es/match-centre/match/760431"
   },
   {
     "date": "miércoles 17 junio 2026",
@@ -265,12 +265,12 @@
     "scoreHome": "1",
     "status": "FINAL",
     "scoreAway": "1",
-    "away": "RD Congo",
+    "away": "Congo DR",
     "phase": "Primera fase",
-    "group": "Grupo K",
-    "stadium": "Estadio Houston",
-    "city": "(Houston)",
-    "href": "https://www.fifa.com/es/match-centre/match/17/285023/289273/400021502"
+    "group": "",
+    "stadium": "NRG Stadium",
+    "city": "(Houston, Texas)",
+    "href": "https://www.fifa.com/es/match-centre/match/760435"
   },
   {
     "date": "miércoles 17 junio 2026",
@@ -280,10 +280,10 @@
     "scoreAway": "2",
     "away": "Croacia",
     "phase": "Primera fase",
-    "group": "Grupo L",
-    "stadium": "Estadio Dallas",
-    "city": "(Dallas)",
-    "href": "https://www.fifa.com/es/match-centre/match/17/285023/289273/400021507"
+    "group": "",
+    "stadium": "AT&T Stadium",
+    "city": "(Arlington, Texas)",
+    "href": "https://www.fifa.com/es/match-centre/match/760437"
   },
   {
     "date": "miércoles 17 junio 2026",
@@ -293,10 +293,10 @@
     "scoreAway": "0",
     "away": "Panamá",
     "phase": "Primera fase",
-    "group": "Grupo L",
-    "stadium": "Estadio de Toronto",
+    "group": "",
+    "stadium": "BMO Field",
     "city": "(Toronto)",
-    "href": "https://www.fifa.com/es/match-centre/match/17/285023/289273/400021510"
+    "href": "https://www.fifa.com/es/match-centre/match/760434"
   },
   {
     "date": "miércoles 17 junio 2026",
@@ -306,23 +306,23 @@
     "scoreAway": "3",
     "away": "Colombia",
     "phase": "Primera fase",
-    "group": "Grupo K",
-    "stadium": "Estadio Ciudad de México",
-    "city": "(Ciudad de México)",
-    "href": "https://www.fifa.com/es/match-centre/match/17/285023/289273/400021504"
+    "group": "",
+    "stadium": "Estadio Banorte",
+    "city": "(Mexico City)",
+    "href": "https://www.fifa.com/es/match-centre/match/760436"
   },
   {
     "date": "jueves 18 junio 2026",
-    "home": "Chequia",
+    "home": "Czechia",
     "scoreHome": "1",
     "status": "FINAL",
     "scoreAway": "1",
     "away": "Sudáfrica",
     "phase": "Primera fase",
-    "group": "Grupo A",
-    "stadium": "Estadio Atlanta",
-    "city": "(Atlanta)",
-    "href": "https://www.fifa.com/es/match-centre/match/17/285023/289273/400021440"
+    "group": "",
+    "stadium": "Mercedes-Benz Stadium",
+    "city": "(Atlanta, Georgia)",
+    "href": "https://www.fifa.com/es/match-centre/match/760438"
   },
   {
     "date": "jueves 18 junio 2026",
@@ -330,25 +330,25 @@
     "scoreHome": "4",
     "status": "FINAL",
     "scoreAway": "1",
-    "away": "Bosnia y Herzegovina",
+    "away": "Bosnia-Herzegovina",
     "phase": "Primera fase",
-    "group": "Grupo B",
-    "stadium": "Estadio Los Angeles",
-    "city": "(Los Ángeles)",
-    "href": "https://www.fifa.com/es/match-centre/match/17/285023/289273/400021446"
+    "group": "",
+    "stadium": "SoFi Stadium",
+    "city": "(Inglewood, California)",
+    "href": "https://www.fifa.com/es/match-centre/match/760439"
   },
   {
     "date": "jueves 18 junio 2026",
     "home": "Canadá",
-    "scoreHome": "16:00",
-    "status": "PENDIENTE",
-    "scoreAway": "",
+    "scoreHome": "0",
+    "status": "7'",
+    "scoreAway": "0",
     "away": "Catar",
     "phase": "Primera fase",
-    "group": "Grupo B",
-    "stadium": "Estadio BC Place Vancouver",
+    "group": "",
+    "stadium": "BC Place",
     "city": "(Vancouver)",
-    "href": "https://www.fifa.com/es/match-centre/match/17/285023/289273/400021450"
+    "href": "https://www.fifa.com/es/match-centre/match/760440"
   },
   {
     "date": "jueves 18 junio 2026",
@@ -356,12 +356,12 @@
     "scoreHome": "19:00",
     "status": "PENDIENTE",
     "scoreAway": "",
-    "away": "República de Corea",
+    "away": "South Korea",
     "phase": "Primera fase",
-    "group": "Grupo A",
-    "stadium": "Estadio Guadalajara",
+    "group": "",
+    "stadium": "Estadio Akron",
     "city": "(Guadalajara)",
-    "href": "https://www.fifa.com/es/match-centre/match/17/285023/289273/400021442"
+    "href": "https://www.fifa.com/es/match-centre/match/760441"
   },
   {
     "date": "viernes 19 junio 2026",
@@ -371,10 +371,10 @@
     "scoreAway": "",
     "away": "Australia",
     "phase": "Primera fase",
-    "group": "Grupo D",
-    "stadium": "Estadio de Seattle",
-    "city": "(Seattle)",
-    "href": "https://www.fifa.com/es/match-centre/match/17/285023/289273/400021462"
+    "group": "",
+    "stadium": "Lumen Field",
+    "city": "(Seattle, Washington)",
+    "href": "https://www.fifa.com/es/match-centre/match/760442"
   },
   {
     "date": "viernes 19 junio 2026",
@@ -384,10 +384,10 @@
     "scoreAway": "",
     "away": "Marruecos",
     "phase": "Primera fase",
-    "group": "Grupo C",
-    "stadium": "Estadio Boston",
-    "city": "(Boston)",
-    "href": "https://www.fifa.com/es/match-centre/match/17/285023/289273/400021454"
+    "group": "",
+    "stadium": "Gillette Stadium",
+    "city": "(Foxborough, Massachusetts)",
+    "href": "https://www.fifa.com/es/match-centre/match/760445"
   },
   {
     "date": "viernes 19 junio 2026",
@@ -397,23 +397,23 @@
     "scoreAway": "",
     "away": "Haití",
     "phase": "Primera fase",
-    "group": "Grupo C",
-    "stadium": "Estadio Filadelfia",
-    "city": "(Filadelfia)",
-    "href": "https://www.fifa.com/es/match-centre/match/17/285023/289273/400021457"
+    "group": "",
+    "stadium": "Lincoln Financial Field",
+    "city": "(Philadelphia, Pennsylvania)",
+    "href": "https://www.fifa.com/es/match-centre/match/760444"
   },
   {
     "date": "viernes 19 junio 2026",
-    "home": "Turquía",
+    "home": "Türkiye",
     "scoreHome": "21:00",
     "status": "PENDIENTE",
     "scoreAway": "",
     "away": "Paraguay",
     "phase": "Primera fase",
-    "group": "Grupo D",
-    "stadium": "Estadio de la Bahía de San Francisco",
-    "city": "(Área de la Bahía de San Francisco)",
-    "href": "https://www.fifa.com/es/match-centre/match/17/285023/289273/400021460"
+    "group": "",
+    "stadium": "Levi's Stadium",
+    "city": "(Santa Clara, California)",
+    "href": "https://www.fifa.com/es/match-centre/match/760443"
   },
   {
     "date": "sábado 20 junio 2026",
@@ -423,10 +423,10 @@
     "scoreAway": "",
     "away": "Suecia",
     "phase": "Primera fase",
-    "group": "Grupo F",
-    "stadium": "Estadio Houston",
-    "city": "(Houston)",
-    "href": "https://www.fifa.com/es/match-centre/match/17/285023/289273/400021472"
+    "group": "",
+    "stadium": "NRG Stadium",
+    "city": "(Houston, Texas)",
+    "href": "https://www.fifa.com/es/match-centre/match/760447"
   },
   {
     "date": "sábado 20 junio 2026",
@@ -436,10 +436,10 @@
     "scoreAway": "",
     "away": "Costa de Marfil",
     "phase": "Primera fase",
-    "group": "Grupo E",
-    "stadium": "Estadio de Toronto",
+    "group": "",
+    "stadium": "BMO Field",
     "city": "(Toronto)",
-    "href": "https://www.fifa.com/es/match-centre/match/17/285023/289273/400021469"
+    "href": "https://www.fifa.com/es/match-centre/match/760448"
   },
   {
     "date": "sábado 20 junio 2026",
@@ -447,12 +447,12 @@
     "scoreHome": "18:00",
     "status": "PENDIENTE",
     "scoreAway": "",
-    "away": "Curazao",
+    "away": "Curaçao",
     "phase": "Primera fase",
-    "group": "Grupo E",
-    "stadium": "Estadio Kansas City",
-    "city": "(Kansas City)",
-    "href": "https://www.fifa.com/es/match-centre/match/17/285023/289273/400021465"
+    "group": "",
+    "stadium": "GEHA Field at Arrowhead Stadium",
+    "city": "(Kansas City, Missouri)",
+    "href": "https://www.fifa.com/es/match-centre/match/760446"
   },
   {
     "date": "sábado 20 junio 2026",
@@ -462,10 +462,10 @@
     "scoreAway": "",
     "away": "Japón",
     "phase": "Primera fase",
-    "group": "Grupo F",
-    "stadium": "Estadio Monterrey",
-    "city": "(Monterrey)",
-    "href": "https://www.fifa.com/es/match-centre/match/17/285023/289273/400021475"
+    "group": "",
+    "stadium": "Estadio BBVA",
+    "city": "(Guadalupe)",
+    "href": "https://www.fifa.com/es/match-centre/match/760449"
   },
   {
     "date": "domingo 21 junio 2026",
@@ -475,10 +475,10 @@
     "scoreAway": "",
     "away": "Arabia Saudí",
     "phase": "Primera fase",
-    "group": "Grupo H",
-    "stadium": "Estadio Atlanta",
-    "city": "(Atlanta)",
-    "href": "https://www.fifa.com/es/match-centre/match/17/285023/289273/400021483"
+    "group": "",
+    "stadium": "Mercedes-Benz Stadium",
+    "city": "(Atlanta, Georgia)",
+    "href": "https://www.fifa.com/es/match-centre/match/760453"
   },
   {
     "date": "domingo 21 junio 2026",
@@ -486,12 +486,12 @@
     "scoreHome": "13:00",
     "status": "PENDIENTE",
     "scoreAway": "",
-    "away": "RI de Irán",
+    "away": "Iran",
     "phase": "Primera fase",
-    "group": "Grupo G",
-    "stadium": "Estadio Los Angeles",
-    "city": "(Los Ángeles)",
-    "href": "https://www.fifa.com/es/match-centre/match/17/285023/289273/400021477"
+    "group": "",
+    "stadium": "SoFi Stadium",
+    "city": "(Inglewood, California)",
+    "href": "https://www.fifa.com/es/match-centre/match/760451"
   },
   {
     "date": "domingo 21 junio 2026",
@@ -501,10 +501,10 @@
     "scoreAway": "",
     "away": "Islas de Cabo Verde",
     "phase": "Primera fase",
-    "group": "Grupo H",
-    "stadium": "Estadio Miami",
-    "city": "(Miami)",
-    "href": "https://www.fifa.com/es/match-centre/match/17/285023/289273/400021487"
+    "group": "",
+    "stadium": "Hard Rock Stadium",
+    "city": "(Miami Gardens, Florida)",
+    "href": "https://www.fifa.com/es/match-centre/match/760450"
   },
   {
     "date": "domingo 21 junio 2026",
@@ -514,10 +514,10 @@
     "scoreAway": "",
     "away": "Egipto",
     "phase": "Primera fase",
-    "group": "Grupo G",
-    "stadium": "Estadio BC Place Vancouver",
+    "group": "",
+    "stadium": "BC Place",
     "city": "(Vancouver)",
-    "href": "https://www.fifa.com/es/match-centre/match/17/285023/289273/400021480"
+    "href": "https://www.fifa.com/es/match-centre/match/760452"
   },
   {
     "date": "lunes 22 junio 2026",
@@ -527,10 +527,10 @@
     "scoreAway": "",
     "away": "Austria",
     "phase": "Primera fase",
-    "group": "Grupo J",
-    "stadium": "Estadio Dallas",
-    "city": "(Dallas)",
-    "href": "https://www.fifa.com/es/match-centre/match/17/285023/289273/400021494"
+    "group": "",
+    "stadium": "AT&T Stadium",
+    "city": "(Arlington, Texas)",
+    "href": "https://www.fifa.com/es/match-centre/match/760456"
   },
   {
     "date": "lunes 22 junio 2026",
@@ -540,10 +540,10 @@
     "scoreAway": "",
     "away": "Irak",
     "phase": "Primera fase",
-    "group": "Grupo I",
-    "stadium": "Estadio Filadelfia",
-    "city": "(Filadelfia)",
-    "href": "https://www.fifa.com/es/match-centre/match/17/285023/289273/400021492"
+    "group": "",
+    "stadium": "Lincoln Financial Field",
+    "city": "(Philadelphia, Pennsylvania)",
+    "href": "https://www.fifa.com/es/match-centre/match/760457"
   },
   {
     "date": "lunes 22 junio 2026",
@@ -553,10 +553,10 @@
     "scoreAway": "",
     "away": "Senegal",
     "phase": "Primera fase",
-    "group": "Grupo I",
-    "stadium": "Estadio Nueva York/Nueva Jersey",
-    "city": "(Nueva Jersey)",
-    "href": "https://www.fifa.com/es/match-centre/match/17/285023/289273/400021491"
+    "group": "",
+    "stadium": "MetLife Stadium",
+    "city": "(East Rutherford, New Jersey)",
+    "href": "https://www.fifa.com/es/match-centre/match/760454"
   },
   {
     "date": "lunes 22 junio 2026",
@@ -566,10 +566,10 @@
     "scoreAway": "",
     "away": "Argelia",
     "phase": "Primera fase",
-    "group": "Grupo J",
-    "stadium": "Estadio de la Bahía de San Francisco",
-    "city": "(Área de la Bahía de San Francisco)",
-    "href": "https://www.fifa.com/es/match-centre/match/17/285023/289273/400021499"
+    "group": "",
+    "stadium": "Levi's Stadium",
+    "city": "(Santa Clara, California)",
+    "href": "https://www.fifa.com/es/match-centre/match/760455"
   },
   {
     "date": "martes 23 junio 2026",
@@ -579,10 +579,10 @@
     "scoreAway": "",
     "away": "Uzbekistán",
     "phase": "Primera fase",
-    "group": "Grupo K",
-    "stadium": "Estadio Houston",
-    "city": "(Houston)",
-    "href": "https://www.fifa.com/es/match-centre/match/17/285023/289273/400021503"
+    "group": "",
+    "stadium": "NRG Stadium",
+    "city": "(Houston, Texas)",
+    "href": "https://www.fifa.com/es/match-centre/match/760461"
   },
   {
     "date": "martes 23 junio 2026",
@@ -592,10 +592,10 @@
     "scoreAway": "",
     "away": "Ghana",
     "phase": "Primera fase",
-    "group": "Grupo L",
-    "stadium": "Estadio Boston",
-    "city": "(Boston)",
-    "href": "https://www.fifa.com/es/match-centre/match/17/285023/289273/400021506"
+    "group": "",
+    "stadium": "Gillette Stadium",
+    "city": "(Foxborough, Massachusetts)",
+    "href": "https://www.fifa.com/es/match-centre/match/760458"
   },
   {
     "date": "martes 23 junio 2026",
@@ -605,10 +605,10 @@
     "scoreAway": "",
     "away": "Croacia",
     "phase": "Primera fase",
-    "group": "Grupo L",
-    "stadium": "Estadio de Toronto",
+    "group": "",
+    "stadium": "BMO Field",
     "city": "(Toronto)",
-    "href": "https://www.fifa.com/es/match-centre/match/17/285023/289273/400021511"
+    "href": "https://www.fifa.com/es/match-centre/match/760460"
   },
   {
     "date": "martes 23 junio 2026",
@@ -616,12 +616,25 @@
     "scoreHome": "20:00",
     "status": "PENDIENTE",
     "scoreAway": "",
-    "away": "RD Congo",
+    "away": "Congo DR",
     "phase": "Primera fase",
-    "group": "Grupo K",
-    "stadium": "Estadio Guadalajara",
+    "group": "",
+    "stadium": "Estadio Akron",
     "city": "(Guadalajara)",
-    "href": "https://www.fifa.com/es/match-centre/match/17/285023/289273/400021501"
+    "href": "https://www.fifa.com/es/match-centre/match/760459"
+  },
+  {
+    "date": "miércoles 24 junio 2026",
+    "home": "Bosnia-Herzegovina",
+    "scoreHome": "13:00",
+    "status": "PENDIENTE",
+    "scoreAway": "",
+    "away": "Catar",
+    "phase": "Primera fase",
+    "group": "",
+    "stadium": "Lumen Field",
+    "city": "(Seattle, Washington)",
+    "href": "https://www.fifa.com/es/match-centre/match/760462"
   },
   {
     "date": "miércoles 24 junio 2026",
@@ -631,36 +644,10 @@
     "scoreAway": "",
     "away": "Canadá",
     "phase": "Primera fase",
-    "group": "Grupo B",
-    "stadium": "Estadio BC Place Vancouver",
+    "group": "",
+    "stadium": "BC Place",
     "city": "(Vancouver)",
-    "href": "https://www.fifa.com/es/match-centre/match/17/285023/289273/400021451"
-  },
-  {
-    "date": "miércoles 24 junio 2026",
-    "home": "Bosnia y Herzegovina",
-    "scoreHome": "13:00",
-    "status": "PENDIENTE",
-    "scoreAway": "",
-    "away": "Catar",
-    "phase": "Primera fase",
-    "group": "Grupo B",
-    "stadium": "Estadio de Seattle",
-    "city": "(Seattle)",
-    "href": "https://www.fifa.com/es/match-centre/match/17/285023/289273/400021448"
-  },
-  {
-    "date": "miércoles 24 junio 2026",
-    "home": "Escocia",
-    "scoreHome": "16:00",
-    "status": "PENDIENTE",
-    "scoreAway": "",
-    "away": "Brasil",
-    "phase": "Primera fase",
-    "group": "Grupo C",
-    "stadium": "Estadio Miami",
-    "city": "(Miami)",
-    "href": "https://www.fifa.com/es/match-centre/match/17/285023/289273/400021455"
+    "href": "https://www.fifa.com/es/match-centre/match/760463"
   },
   {
     "date": "miércoles 24 junio 2026",
@@ -670,23 +657,36 @@
     "scoreAway": "",
     "away": "Haití",
     "phase": "Primera fase",
-    "group": "Grupo C",
-    "stadium": "Estadio Atlanta",
-    "city": "(Atlanta)",
-    "href": "https://www.fifa.com/es/match-centre/match/17/285023/289273/400021452"
+    "group": "",
+    "stadium": "Mercedes-Benz Stadium",
+    "city": "(Atlanta, Georgia)",
+    "href": "https://www.fifa.com/es/match-centre/match/760464"
   },
   {
     "date": "miércoles 24 junio 2026",
-    "home": "Chequia",
+    "home": "Escocia",
+    "scoreHome": "16:00",
+    "status": "PENDIENTE",
+    "scoreAway": "",
+    "away": "Brasil",
+    "phase": "Primera fase",
+    "group": "",
+    "stadium": "Hard Rock Stadium",
+    "city": "(Miami Gardens, Florida)",
+    "href": "https://www.fifa.com/es/match-centre/match/760465"
+  },
+  {
+    "date": "miércoles 24 junio 2026",
+    "home": "Czechia",
     "scoreHome": "19:00",
     "status": "PENDIENTE",
     "scoreAway": "",
     "away": "México",
     "phase": "Primera fase",
-    "group": "Grupo A",
-    "stadium": "Estadio Ciudad de México",
-    "city": "(Ciudad de México)",
-    "href": "https://www.fifa.com/es/match-centre/match/17/285023/289273/400021444"
+    "group": "",
+    "stadium": "Estadio Banorte",
+    "city": "(Mexico City)",
+    "href": "https://www.fifa.com/es/match-centre/match/760467"
   },
   {
     "date": "miércoles 24 junio 2026",
@@ -694,25 +694,25 @@
     "scoreHome": "19:00",
     "status": "PENDIENTE",
     "scoreAway": "",
-    "away": "República de Corea",
+    "away": "South Korea",
     "phase": "Primera fase",
-    "group": "Grupo A",
-    "stadium": "Estadio Monterrey",
-    "city": "(Monterrey)",
-    "href": "https://www.fifa.com/es/match-centre/match/17/285023/289273/400021445"
+    "group": "",
+    "stadium": "Estadio BBVA",
+    "city": "(Guadalupe)",
+    "href": "https://www.fifa.com/es/match-centre/match/760466"
   },
   {
     "date": "jueves 25 junio 2026",
-    "home": "Curazao",
+    "home": "Curaçao",
     "scoreHome": "14:00",
     "status": "PENDIENTE",
     "scoreAway": "",
     "away": "Costa de Marfil",
     "phase": "Primera fase",
-    "group": "Grupo E",
-    "stadium": "Estadio Filadelfia",
-    "city": "(Filadelfia)",
-    "href": "https://www.fifa.com/es/match-centre/match/17/285023/289273/400021468"
+    "group": "",
+    "stadium": "Lincoln Financial Field",
+    "city": "(Philadelphia, Pennsylvania)",
+    "href": "https://www.fifa.com/es/match-centre/match/760473"
   },
   {
     "date": "jueves 25 junio 2026",
@@ -722,10 +722,10 @@
     "scoreAway": "",
     "away": "Alemania",
     "phase": "Primera fase",
-    "group": "Grupo E",
-    "stadium": "Estadio Nueva York/Nueva Jersey",
-    "city": "(Nueva Jersey)",
-    "href": "https://www.fifa.com/es/match-centre/match/17/285023/289273/400021466"
+    "group": "",
+    "stadium": "MetLife Stadium",
+    "city": "(East Rutherford, New Jersey)",
+    "href": "https://www.fifa.com/es/match-centre/match/760468"
   },
   {
     "date": "jueves 25 junio 2026",
@@ -735,10 +735,10 @@
     "scoreAway": "",
     "away": "Suecia",
     "phase": "Primera fase",
-    "group": "Grupo F",
-    "stadium": "Estadio Dallas",
-    "city": "(Dallas)",
-    "href": "https://www.fifa.com/es/match-centre/match/17/285023/289273/400021471"
+    "group": "",
+    "stadium": "AT&T Stadium",
+    "city": "(Arlington, Texas)",
+    "href": "https://www.fifa.com/es/match-centre/match/760471"
   },
   {
     "date": "jueves 25 junio 2026",
@@ -748,23 +748,10 @@
     "scoreAway": "",
     "away": "Países Bajos",
     "phase": "Primera fase",
-    "group": "Grupo F",
-    "stadium": "Estadio Kansas City",
-    "city": "(Kansas City)",
-    "href": "https://www.fifa.com/es/match-centre/match/17/285023/289273/400021473"
-  },
-  {
-    "date": "jueves 25 junio 2026",
-    "home": "Turquía",
-    "scoreHome": "20:00",
-    "status": "PENDIENTE",
-    "scoreAway": "",
-    "away": "EE. UU.",
-    "phase": "Primera fase",
-    "group": "Grupo D",
-    "stadium": "Estadio Los Angeles",
-    "city": "(Los Ángeles)",
-    "href": "https://www.fifa.com/es/match-centre/match/17/285023/289273/400021459"
+    "group": "",
+    "stadium": "GEHA Field at Arrowhead Stadium",
+    "city": "(Kansas City, Missouri)",
+    "href": "https://www.fifa.com/es/match-centre/match/760472"
   },
   {
     "date": "jueves 25 junio 2026",
@@ -774,10 +761,23 @@
     "scoreAway": "",
     "away": "Australia",
     "phase": "Primera fase",
-    "group": "Grupo D",
-    "stadium": "Estadio de la Bahía de San Francisco",
-    "city": "(Área de la Bahía de San Francisco)",
-    "href": "https://www.fifa.com/es/match-centre/match/17/285023/289273/400021461"
+    "group": "",
+    "stadium": "Levi's Stadium",
+    "city": "(Santa Clara, California)",
+    "href": "https://www.fifa.com/es/match-centre/match/760469"
+  },
+  {
+    "date": "jueves 25 junio 2026",
+    "home": "Türkiye",
+    "scoreHome": "20:00",
+    "status": "PENDIENTE",
+    "scoreAway": "",
+    "away": "EE. UU.",
+    "phase": "Primera fase",
+    "group": "",
+    "stadium": "SoFi Stadium",
+    "city": "(Inglewood, California)",
+    "href": "https://www.fifa.com/es/match-centre/match/760470"
   },
   {
     "date": "viernes 26 junio 2026",
@@ -787,10 +787,10 @@
     "scoreAway": "",
     "away": "Francia",
     "phase": "Primera fase",
-    "group": "Grupo I",
-    "stadium": "Estadio Boston",
-    "city": "(Boston)",
-    "href": "https://www.fifa.com/es/match-centre/match/17/285023/289273/400021489"
+    "group": "",
+    "stadium": "Gillette Stadium",
+    "city": "(Foxborough, Massachusetts)",
+    "href": "https://www.fifa.com/es/match-centre/match/760475"
   },
   {
     "date": "viernes 26 junio 2026",
@@ -800,10 +800,10 @@
     "scoreAway": "",
     "away": "Irak",
     "phase": "Primera fase",
-    "group": "Grupo I",
-    "stadium": "Estadio de Toronto",
+    "group": "",
+    "stadium": "BMO Field",
     "city": "(Toronto)",
-    "href": "https://www.fifa.com/es/match-centre/match/17/285023/289273/400021493"
+    "href": "https://www.fifa.com/es/match-centre/match/760474"
   },
   {
     "date": "viernes 26 junio 2026",
@@ -813,10 +813,10 @@
     "scoreAway": "",
     "away": "Arabia Saudí",
     "phase": "Primera fase",
-    "group": "Grupo H",
-    "stadium": "Estadio Houston",
-    "city": "(Houston)",
-    "href": "https://www.fifa.com/es/match-centre/match/17/285023/289273/400021485"
+    "group": "",
+    "stadium": "NRG Stadium",
+    "city": "(Houston, Texas)",
+    "href": "https://www.fifa.com/es/match-centre/match/760478"
   },
   {
     "date": "viernes 26 junio 2026",
@@ -826,10 +826,10 @@
     "scoreAway": "",
     "away": "España",
     "phase": "Primera fase",
-    "group": "Grupo H",
-    "stadium": "Estadio Guadalajara",
+    "group": "",
+    "stadium": "Estadio Akron",
     "city": "(Guadalajara)",
-    "href": "https://www.fifa.com/es/match-centre/match/17/285023/289273/400021484"
+    "href": "https://www.fifa.com/es/match-centre/match/760479"
   },
   {
     "date": "viernes 26 junio 2026",
@@ -837,12 +837,12 @@
     "scoreHome": "21:00",
     "status": "PENDIENTE",
     "scoreAway": "",
-    "away": "RI de Irán",
+    "away": "Iran",
     "phase": "Primera fase",
-    "group": "Grupo G",
-    "stadium": "Estadio de Seattle",
-    "city": "(Seattle)",
-    "href": "https://www.fifa.com/es/match-centre/match/17/285023/289273/400021479"
+    "group": "",
+    "stadium": "Lumen Field",
+    "city": "(Seattle, Washington)",
+    "href": "https://www.fifa.com/es/match-centre/match/760476"
   },
   {
     "date": "viernes 26 junio 2026",
@@ -852,23 +852,10 @@
     "scoreAway": "",
     "away": "Bélgica",
     "phase": "Primera fase",
-    "group": "Grupo G",
-    "stadium": "Estadio BC Place Vancouver",
+    "group": "",
+    "stadium": "BC Place",
     "city": "(Vancouver)",
-    "href": "https://www.fifa.com/es/match-centre/match/17/285023/289273/400021481"
-  },
-  {
-    "date": "sábado 27 junio 2026",
-    "home": "Panamá",
-    "scoreHome": "15:00",
-    "status": "PENDIENTE",
-    "scoreAway": "",
-    "away": "Inglaterra",
-    "phase": "Primera fase",
-    "group": "Grupo L",
-    "stadium": "Estadio Nueva York/Nueva Jersey",
-    "city": "(Nueva Jersey)",
-    "href": "https://www.fifa.com/es/match-centre/match/17/285023/289273/400021508"
+    "href": "https://www.fifa.com/es/match-centre/match/760477"
   },
   {
     "date": "sábado 27 junio 2026",
@@ -878,10 +865,23 @@
     "scoreAway": "",
     "away": "Ghana",
     "phase": "Primera fase",
-    "group": "Grupo L",
-    "stadium": "Estadio Filadelfia",
-    "city": "(Filadelfia)",
-    "href": "https://www.fifa.com/es/match-centre/match/17/285023/289273/400021509"
+    "group": "",
+    "stadium": "Lincoln Financial Field",
+    "city": "(Philadelphia, Pennsylvania)",
+    "href": "https://www.fifa.com/es/match-centre/match/760480"
+  },
+  {
+    "date": "sábado 27 junio 2026",
+    "home": "Panamá",
+    "scoreHome": "15:00",
+    "status": "PENDIENTE",
+    "scoreAway": "",
+    "away": "Inglaterra",
+    "phase": "Primera fase",
+    "group": "",
+    "stadium": "MetLife Stadium",
+    "city": "(East Rutherford, New Jersey)",
+    "href": "https://www.fifa.com/es/match-centre/match/760485"
   },
   {
     "date": "sábado 27 junio 2026",
@@ -891,23 +891,23 @@
     "scoreAway": "",
     "away": "Portugal",
     "phase": "Primera fase",
-    "group": "Grupo K",
-    "stadium": "Estadio Miami",
-    "city": "(Miami)",
-    "href": "https://www.fifa.com/es/match-centre/match/17/285023/289273/400021505"
+    "group": "",
+    "stadium": "Hard Rock Stadium",
+    "city": "(Miami Gardens, Florida)",
+    "href": "https://www.fifa.com/es/match-centre/match/760481"
   },
   {
     "date": "sábado 27 junio 2026",
-    "home": "RD Congo",
+    "home": "Congo DR",
     "scoreHome": "17:30",
     "status": "PENDIENTE",
     "scoreAway": "",
     "away": "Uzbekistán",
     "phase": "Primera fase",
-    "group": "Grupo K",
-    "stadium": "Estadio Atlanta",
-    "city": "(Atlanta)",
-    "href": "https://www.fifa.com/es/match-centre/match/17/285023/289273/400021500"
+    "group": "",
+    "stadium": "Mercedes-Benz Stadium",
+    "city": "(Atlanta, Georgia)",
+    "href": "https://www.fifa.com/es/match-centre/match/760482"
   },
   {
     "date": "sábado 27 junio 2026",
@@ -917,10 +917,10 @@
     "scoreAway": "",
     "away": "Austria",
     "phase": "Primera fase",
-    "group": "Grupo J",
-    "stadium": "Estadio Kansas City",
-    "city": "(Kansas City)",
-    "href": "https://www.fifa.com/es/match-centre/match/17/285023/289273/400021497"
+    "group": "",
+    "stadium": "GEHA Field at Arrowhead Stadium",
+    "city": "(Kansas City, Missouri)",
+    "href": "https://www.fifa.com/es/match-centre/match/760484"
   },
   {
     "date": "sábado 27 junio 2026",
@@ -930,425 +930,425 @@
     "scoreAway": "",
     "away": "Argentina",
     "phase": "Primera fase",
-    "group": "Grupo J",
-    "stadium": "Estadio Dallas",
-    "city": "(Dallas)",
-    "href": "https://www.fifa.com/es/match-centre/match/17/285023/289273/400021495"
+    "group": "",
+    "stadium": "AT&T Stadium",
+    "city": "(Arlington, Texas)",
+    "href": "https://www.fifa.com/es/match-centre/match/760483"
   },
   {
     "date": "domingo 28 junio 2026",
-    "home": "2A",
+    "home": "Group A 2nd Place",
     "scoreHome": "13:00",
     "status": "PENDIENTE",
     "scoreAway": "",
-    "away": "2B",
-    "phase": "Dieciseisavos de final",
-    "group": "Dieciseisavos de final",
-    "stadium": "Estadio Los Angeles",
-    "city": "(Los Ángeles)",
-    "href": "https://www.fifa.com/es/match-centre/match/17/285023/289287/400021518"
+    "away": "Group B 2nd Place",
+    "phase": "Primera fase",
+    "group": "",
+    "stadium": "SoFi Stadium",
+    "city": "(Inglewood, California)",
+    "href": "https://www.fifa.com/es/match-centre/match/760486"
   },
   {
     "date": "lunes 29 junio 2026",
-    "home": "1C",
+    "home": "Group C Winner",
     "scoreHome": "11:00",
     "status": "PENDIENTE",
     "scoreAway": "",
-    "away": "2F",
-    "phase": "Dieciseisavos de final",
-    "group": "Dieciseisavos de final",
-    "stadium": "Estadio Houston",
-    "city": "(Houston)",
-    "href": "https://www.fifa.com/es/match-centre/match/17/285023/289287/400021516"
+    "away": "Group F 2nd Place",
+    "phase": "Primera fase",
+    "group": "",
+    "stadium": "NRG Stadium",
+    "city": "(Houston, Texas)",
+    "href": "https://www.fifa.com/es/match-centre/match/760487"
   },
   {
     "date": "lunes 29 junio 2026",
-    "home": "1E",
+    "home": "Group E Winner",
     "scoreHome": "14:30",
     "status": "PENDIENTE",
     "scoreAway": "",
-    "away": "3ABCDF",
-    "phase": "Dieciseisavos de final",
-    "group": "Dieciseisavos de final",
-    "stadium": "Estadio Boston",
-    "city": "(Boston)",
-    "href": "https://www.fifa.com/es/match-centre/match/17/285023/289287/400021513"
+    "away": "Third Place Group A/B/C/D/F",
+    "phase": "Primera fase",
+    "group": "",
+    "stadium": "Gillette Stadium",
+    "city": "(Foxborough, Massachusetts)",
+    "href": "https://www.fifa.com/es/match-centre/match/760489"
   },
   {
     "date": "lunes 29 junio 2026",
-    "home": "1F",
+    "home": "Group F Winner",
     "scoreHome": "19:00",
     "status": "PENDIENTE",
     "scoreAway": "",
-    "away": "2C",
-    "phase": "Dieciseisavos de final",
-    "group": "Dieciseisavos de final",
-    "stadium": "Estadio Monterrey",
-    "city": "(Monterrey)",
-    "href": "https://www.fifa.com/es/match-centre/match/17/285023/289287/400021522"
+    "away": "Group C 2nd Place",
+    "phase": "Primera fase",
+    "group": "",
+    "stadium": "Estadio BBVA",
+    "city": "(Guadalupe)",
+    "href": "https://www.fifa.com/es/match-centre/match/760488"
   },
   {
     "date": "martes 30 junio 2026",
-    "home": "2E",
+    "home": "Group E 2nd Place",
     "scoreHome": "11:00",
     "status": "PENDIENTE",
     "scoreAway": "",
-    "away": "2I",
-    "phase": "Dieciseisavos de final",
-    "group": "Dieciseisavos de final",
-    "stadium": "Estadio Dallas",
-    "city": "(Dallas)",
-    "href": "https://www.fifa.com/es/match-centre/match/17/285023/289287/400021514"
+    "away": "Group I 2nd Place",
+    "phase": "Primera fase",
+    "group": "",
+    "stadium": "AT&T Stadium",
+    "city": "(Arlington, Texas)",
+    "href": "https://www.fifa.com/es/match-centre/match/760490"
   },
   {
     "date": "martes 30 junio 2026",
-    "home": "1I",
+    "home": "Group I Winner",
     "scoreHome": "15:00",
     "status": "PENDIENTE",
     "scoreAway": "",
-    "away": "3CDFGH",
-    "phase": "Dieciseisavos de final",
-    "group": "Dieciseisavos de final",
-    "stadium": "Estadio Nueva York/Nueva Jersey",
-    "city": "(Nueva Jersey)",
-    "href": "https://www.fifa.com/es/match-centre/match/17/285023/289287/400021523"
+    "away": "Third Place Group C/D/F/G/H",
+    "phase": "Primera fase",
+    "group": "",
+    "stadium": "MetLife Stadium",
+    "city": "(East Rutherford, New Jersey)",
+    "href": "https://www.fifa.com/es/match-centre/match/760492"
   },
   {
     "date": "martes 30 junio 2026",
-    "home": "1A",
+    "home": "Group A Winner",
     "scoreHome": "19:00",
     "status": "PENDIENTE",
     "scoreAway": "",
-    "away": "3CEFHI",
-    "phase": "Dieciseisavos de final",
-    "group": "Dieciseisavos de final",
-    "stadium": "Estadio Ciudad de México",
-    "city": "(Ciudad de México)",
-    "href": "https://www.fifa.com/es/match-centre/match/17/285023/289287/400021520"
+    "away": "Third Place Group C/E/F/H/I",
+    "phase": "Primera fase",
+    "group": "",
+    "stadium": "Estadio Banorte",
+    "city": "(Mexico City)",
+    "href": "https://www.fifa.com/es/match-centre/match/760491"
   },
   {
-    "date": "miércoles 01 julio 2026",
-    "home": "1L",
+    "date": "miércoles 1 julio 2026",
+    "home": "Group L Winner",
     "scoreHome": "10:00",
     "status": "PENDIENTE",
     "scoreAway": "",
-    "away": "3EHIJK",
-    "phase": "Dieciseisavos de final",
-    "group": "Dieciseisavos de final",
-    "stadium": "Estadio Atlanta",
-    "city": "(Atlanta)",
-    "href": "https://www.fifa.com/es/match-centre/match/17/285023/289287/400021512"
+    "away": "Third Place Group E/H/I/J/K",
+    "phase": "Primera fase",
+    "group": "",
+    "stadium": "Mercedes-Benz Stadium",
+    "city": "(Atlanta, Georgia)",
+    "href": "https://www.fifa.com/es/match-centre/match/760495"
   },
   {
-    "date": "miércoles 01 julio 2026",
-    "home": "1G",
+    "date": "miércoles 1 julio 2026",
+    "home": "Group G Winner",
     "scoreHome": "14:00",
     "status": "PENDIENTE",
     "scoreAway": "",
-    "away": "3AEHIJ",
-    "phase": "Dieciseisavos de final",
-    "group": "Dieciseisavos de final",
-    "stadium": "Estadio de Seattle",
-    "city": "(Seattle)",
-    "href": "https://www.fifa.com/es/match-centre/match/17/285023/289287/400021525"
+    "away": "Third Place Group A/E/H/I/J",
+    "phase": "Primera fase",
+    "group": "",
+    "stadium": "Lumen Field",
+    "city": "(Seattle, Washington)",
+    "href": "https://www.fifa.com/es/match-centre/match/760493"
   },
   {
-    "date": "miércoles 01 julio 2026",
-    "home": "1D",
+    "date": "miércoles 1 julio 2026",
+    "home": "Group D Winner",
     "scoreHome": "18:00",
     "status": "PENDIENTE",
     "scoreAway": "",
-    "away": "3BEFIJ",
-    "phase": "Dieciseisavos de final",
-    "group": "Dieciseisavos de final",
-    "stadium": "Estadio de la Bahía de San Francisco",
-    "city": "(Área de la Bahía de San Francisco)",
-    "href": "https://www.fifa.com/es/match-centre/match/17/285023/289287/400021524"
+    "away": "Third Place Group B/E/F/I/J",
+    "phase": "Primera fase",
+    "group": "",
+    "stadium": "Levi's Stadium",
+    "city": "(Santa Clara, California)",
+    "href": "https://www.fifa.com/es/match-centre/match/760494"
   },
   {
-    "date": "jueves 02 julio 2026",
-    "home": "1H",
+    "date": "jueves 2 julio 2026",
+    "home": "Group H Winner",
     "scoreHome": "13:00",
     "status": "PENDIENTE",
     "scoreAway": "",
-    "away": "2J",
-    "phase": "Dieciseisavos de final",
-    "group": "Dieciseisavos de final",
-    "stadium": "Estadio Los Angeles",
-    "city": "(Los Ángeles)",
-    "href": "https://www.fifa.com/es/match-centre/match/17/285023/289287/400021519"
+    "away": "Group J 2nd Place",
+    "phase": "Primera fase",
+    "group": "",
+    "stadium": "SoFi Stadium",
+    "city": "(Inglewood, California)",
+    "href": "https://www.fifa.com/es/match-centre/match/760497"
   },
   {
-    "date": "jueves 02 julio 2026",
-    "home": "2K",
+    "date": "jueves 2 julio 2026",
+    "home": "Group K 2nd Place",
     "scoreHome": "17:00",
     "status": "PENDIENTE",
     "scoreAway": "",
-    "away": "2L",
-    "phase": "Dieciseisavos de final",
-    "group": "Dieciseisavos de final",
-    "stadium": "Estadio de Toronto",
+    "away": "Group L 2nd Place",
+    "phase": "Primera fase",
+    "group": "",
+    "stadium": "BMO Field",
     "city": "(Toronto)",
-    "href": "https://www.fifa.com/es/match-centre/match/17/285023/289287/400021526"
+    "href": "https://www.fifa.com/es/match-centre/match/760496"
   },
   {
-    "date": "jueves 02 julio 2026",
-    "home": "1B",
+    "date": "jueves 2 julio 2026",
+    "home": "Group B Winner",
     "scoreHome": "21:00",
     "status": "PENDIENTE",
     "scoreAway": "",
-    "away": "3EFGIJ",
-    "phase": "Dieciseisavos de final",
-    "group": "Dieciseisavos de final",
-    "stadium": "Estadio BC Place Vancouver",
+    "away": "Third Place Group E/F/G/I/J",
+    "phase": "Primera fase",
+    "group": "",
+    "stadium": "BC Place",
     "city": "(Vancouver)",
-    "href": "https://www.fifa.com/es/match-centre/match/17/285023/289287/400021527"
+    "href": "https://www.fifa.com/es/match-centre/match/760498"
   },
   {
-    "date": "viernes 03 julio 2026",
-    "home": "2D",
+    "date": "viernes 3 julio 2026",
+    "home": "Group D 2nd Place",
     "scoreHome": "12:00",
     "status": "PENDIENTE",
     "scoreAway": "",
-    "away": "2G",
-    "phase": "Dieciseisavos de final",
-    "group": "Dieciseisavos de final",
-    "stadium": "Estadio Dallas",
-    "city": "(Dallas)",
-    "href": "https://www.fifa.com/es/match-centre/match/17/285023/289287/400021515"
+    "away": "Group G 2nd Place",
+    "phase": "Primera fase",
+    "group": "",
+    "stadium": "AT&T Stadium",
+    "city": "(Arlington, Texas)",
+    "href": "https://www.fifa.com/es/match-centre/match/760499"
   },
   {
-    "date": "viernes 03 julio 2026",
-    "home": "1J",
+    "date": "viernes 3 julio 2026",
+    "home": "Group J Winner",
     "scoreHome": "16:00",
     "status": "PENDIENTE",
     "scoreAway": "",
-    "away": "2H",
-    "phase": "Dieciseisavos de final",
-    "group": "Dieciseisavos de final",
-    "stadium": "Estadio Miami",
-    "city": "(Miami)",
-    "href": "https://www.fifa.com/es/match-centre/match/17/285023/289287/400021521"
+    "away": "Group H 2nd Place",
+    "phase": "Primera fase",
+    "group": "",
+    "stadium": "Hard Rock Stadium",
+    "city": "(Miami Gardens, Florida)",
+    "href": "https://www.fifa.com/es/match-centre/match/760500"
   },
   {
-    "date": "viernes 03 julio 2026",
-    "home": "1K",
+    "date": "viernes 3 julio 2026",
+    "home": "Group K Winner",
     "scoreHome": "19:30",
     "status": "PENDIENTE",
     "scoreAway": "",
-    "away": "3DEIJL",
-    "phase": "Dieciseisavos de final",
-    "group": "Dieciseisavos de final",
-    "stadium": "Estadio Kansas City",
-    "city": "(Kansas City)",
-    "href": "https://www.fifa.com/es/match-centre/match/17/285023/289287/400021517"
+    "away": "Third Place Group D/E/I/J/L",
+    "phase": "Primera fase",
+    "group": "",
+    "stadium": "GEHA Field at Arrowhead Stadium",
+    "city": "(Kansas City, Missouri)",
+    "href": "https://www.fifa.com/es/match-centre/match/760501"
   },
   {
-    "date": "sábado 04 julio 2026",
-    "home": "W73",
+    "date": "sábado 4 julio 2026",
+    "home": "Round of 32 1 Winner",
     "scoreHome": "11:00",
     "status": "PENDIENTE",
     "scoreAway": "",
-    "away": "W75",
-    "phase": "Octavos de final",
-    "group": "Octavos de final",
-    "stadium": "Estadio Houston",
-    "city": "(Houston)",
-    "href": "https://www.fifa.com/es/match-centre/match/17/285023/289288/400021530"
+    "away": "Round of 32 3 Winner",
+    "phase": "Primera fase",
+    "group": "",
+    "stadium": "NRG Stadium",
+    "city": "(Houston, Texas)",
+    "href": "https://www.fifa.com/es/match-centre/match/760502"
   },
   {
-    "date": "sábado 04 julio 2026",
-    "home": "W74",
+    "date": "sábado 4 julio 2026",
+    "home": "Round of 32 2 Winner",
     "scoreHome": "15:00",
     "status": "PENDIENTE",
     "scoreAway": "",
-    "away": "W77",
-    "phase": "Octavos de final",
-    "group": "Octavos de final",
-    "stadium": "Estadio Filadelfia",
-    "city": "(Filadelfia)",
-    "href": "https://www.fifa.com/es/match-centre/match/17/285023/289288/400021533"
+    "away": "Round of 32 5 Winner",
+    "phase": "Primera fase",
+    "group": "",
+    "stadium": "Lincoln Financial Field",
+    "city": "(Philadelphia, Pennsylvania)",
+    "href": "https://www.fifa.com/es/match-centre/match/760503"
   },
   {
-    "date": "domingo 05 julio 2026",
-    "home": "W76",
+    "date": "domingo 5 julio 2026",
+    "home": "Round of 32 4 Winner",
     "scoreHome": "14:00",
     "status": "PENDIENTE",
     "scoreAway": "",
-    "away": "W78",
-    "phase": "Octavos de final",
-    "group": "Octavos de final",
-    "stadium": "Estadio Nueva York/Nueva Jersey",
-    "city": "(Nueva Jersey)",
-    "href": "https://www.fifa.com/es/match-centre/match/17/285023/289288/400021532"
+    "away": "Round of 32 6 Winner",
+    "phase": "Primera fase",
+    "group": "",
+    "stadium": "MetLife Stadium",
+    "city": "(East Rutherford, New Jersey)",
+    "href": "https://www.fifa.com/es/match-centre/match/760504"
   },
   {
-    "date": "domingo 05 julio 2026",
-    "home": "W79",
+    "date": "domingo 5 julio 2026",
+    "home": "Round of 32 7 Winner",
     "scoreHome": "18:00",
     "status": "PENDIENTE",
     "scoreAway": "",
-    "away": "W80",
-    "phase": "Octavos de final",
-    "group": "Octavos de final",
-    "stadium": "Estadio Ciudad de México",
-    "city": "(Ciudad de México)",
-    "href": "https://www.fifa.com/es/match-centre/match/17/285023/289288/400021531"
+    "away": "Round of 32 8 Winner",
+    "phase": "Primera fase",
+    "group": "",
+    "stadium": "Estadio Banorte",
+    "city": "(Mexico City)",
+    "href": "https://www.fifa.com/es/match-centre/match/760505"
   },
   {
-    "date": "lunes 06 julio 2026",
-    "home": "W83",
+    "date": "lunes 6 julio 2026",
+    "home": "Round of 32 11 Winner",
     "scoreHome": "13:00",
     "status": "PENDIENTE",
     "scoreAway": "",
-    "away": "W84",
-    "phase": "Octavos de final",
-    "group": "Octavos de final",
-    "stadium": "Estadio Dallas",
-    "city": "(Dallas)",
-    "href": "https://www.fifa.com/es/match-centre/match/17/285023/289288/400021529"
+    "away": "Round of 32 12 Winner",
+    "phase": "Primera fase",
+    "group": "",
+    "stadium": "AT&T Stadium",
+    "city": "(Arlington, Texas)",
+    "href": "https://www.fifa.com/es/match-centre/match/760506"
   },
   {
-    "date": "lunes 06 julio 2026",
-    "home": "W81",
+    "date": "lunes 6 julio 2026",
+    "home": "Round of 32 9 Winner",
     "scoreHome": "18:00",
     "status": "PENDIENTE",
     "scoreAway": "",
-    "away": "W82",
-    "phase": "Octavos de final",
-    "group": "Octavos de final",
-    "stadium": "Estadio de Seattle",
-    "city": "(Seattle)",
-    "href": "https://www.fifa.com/es/match-centre/match/17/285023/289288/400021534"
+    "away": "Round of 32 10 Winner",
+    "phase": "Primera fase",
+    "group": "",
+    "stadium": "Lumen Field",
+    "city": "(Seattle, Washington)",
+    "href": "https://www.fifa.com/es/match-centre/match/760507"
   },
   {
-    "date": "martes 07 julio 2026",
-    "home": "W86",
+    "date": "martes 7 julio 2026",
+    "home": "Round of 32 14 Winner",
     "scoreHome": "10:00",
     "status": "PENDIENTE",
     "scoreAway": "",
-    "away": "W88",
-    "phase": "Octavos de final",
-    "group": "Octavos de final",
-    "stadium": "Estadio Atlanta",
-    "city": "(Atlanta)",
-    "href": "https://www.fifa.com/es/match-centre/match/17/285023/289288/400021528"
+    "away": "Round of 32 16 Winner",
+    "phase": "Primera fase",
+    "group": "",
+    "stadium": "Mercedes-Benz Stadium",
+    "city": "(Atlanta, Georgia)",
+    "href": "https://www.fifa.com/es/match-centre/match/760509"
   },
   {
-    "date": "martes 07 julio 2026",
-    "home": "W85",
+    "date": "martes 7 julio 2026",
+    "home": "Round of 32 13 Winner",
     "scoreHome": "14:00",
     "status": "PENDIENTE",
     "scoreAway": "",
-    "away": "W87",
-    "phase": "Octavos de final",
-    "group": "Octavos de final",
-    "stadium": "Estadio BC Place Vancouver",
+    "away": "Round of 32 15 Winner",
+    "phase": "Primera fase",
+    "group": "",
+    "stadium": "BC Place",
     "city": "(Vancouver)",
-    "href": "https://www.fifa.com/es/match-centre/match/17/285023/289288/400021535"
+    "href": "https://www.fifa.com/es/match-centre/match/760508"
   },
   {
-    "date": "jueves 09 julio 2026",
-    "home": "W89",
+    "date": "jueves 9 julio 2026",
+    "home": "Round of 16 1 Winner",
     "scoreHome": "14:00",
     "status": "PENDIENTE",
     "scoreAway": "",
-    "away": "W90",
-    "phase": "Cuartos de final",
-    "group": "Cuartos de final",
-    "stadium": "Estadio Boston",
-    "city": "(Boston)",
-    "href": "https://www.fifa.com/es/match-centre/match/17/285023/289289/400021536"
+    "away": "Round of 16 2 Winner",
+    "phase": "Primera fase",
+    "group": "",
+    "stadium": "Gillette Stadium",
+    "city": "(Foxborough, Massachusetts)",
+    "href": "https://www.fifa.com/es/match-centre/match/760510"
   },
   {
     "date": "viernes 10 julio 2026",
-    "home": "W93",
+    "home": "Round of 16 5 Winner",
     "scoreHome": "13:00",
     "status": "PENDIENTE",
     "scoreAway": "",
-    "away": "W94",
-    "phase": "Cuartos de final",
-    "group": "Cuartos de final",
-    "stadium": "Estadio Los Angeles",
-    "city": "(Los Ángeles)",
-    "href": "https://www.fifa.com/es/match-centre/match/17/285023/289289/400021538"
+    "away": "Round of 16 6 Winner",
+    "phase": "Primera fase",
+    "group": "",
+    "stadium": "SoFi Stadium",
+    "city": "(Inglewood, California)",
+    "href": "https://www.fifa.com/es/match-centre/match/760511"
   },
   {
     "date": "sábado 11 julio 2026",
-    "home": "W91",
+    "home": "Round of 16 3 Winner",
     "scoreHome": "15:00",
     "status": "PENDIENTE",
     "scoreAway": "",
-    "away": "W92",
-    "phase": "Cuartos de final",
-    "group": "Cuartos de final",
-    "stadium": "Estadio Miami",
-    "city": "(Miami)",
-    "href": "https://www.fifa.com/es/match-centre/match/17/285023/289289/400021539"
+    "away": "Round of 16 4 Winner",
+    "phase": "Primera fase",
+    "group": "",
+    "stadium": "Hard Rock Stadium",
+    "city": "(Miami Gardens, Florida)",
+    "href": "https://www.fifa.com/es/match-centre/match/760512"
   },
   {
     "date": "sábado 11 julio 2026",
-    "home": "W95",
+    "home": "Round of 16 7 Winner",
     "scoreHome": "19:00",
     "status": "PENDIENTE",
     "scoreAway": "",
-    "away": "W96",
-    "phase": "Cuartos de final",
-    "group": "Cuartos de final",
-    "stadium": "Estadio Kansas City",
-    "city": "(Kansas City)",
-    "href": "https://www.fifa.com/es/match-centre/match/17/285023/289289/400021537"
+    "away": "Round of 16 8 Winner",
+    "phase": "Primera fase",
+    "group": "",
+    "stadium": "GEHA Field at Arrowhead Stadium",
+    "city": "(Kansas City, Missouri)",
+    "href": "https://www.fifa.com/es/match-centre/match/760513"
   },
   {
     "date": "martes 14 julio 2026",
-    "home": "W97",
+    "home": "Quarterfinal 1 Winner",
     "scoreHome": "13:00",
     "status": "PENDIENTE",
     "scoreAway": "",
-    "away": "W98",
-    "phase": "Semifinal",
-    "group": "Semifinal",
-    "stadium": "Estadio Dallas",
-    "city": "(Dallas)",
-    "href": "https://www.fifa.com/es/match-centre/match/17/285023/289290/400021541"
+    "away": "Quarterfinal 2 Winner",
+    "phase": "Primera fase",
+    "group": "",
+    "stadium": "AT&T Stadium",
+    "city": "(Arlington, Texas)",
+    "href": "https://www.fifa.com/es/match-centre/match/760514"
   },
   {
     "date": "miércoles 15 julio 2026",
-    "home": "W99",
+    "home": "Quarterfinal 3 Winner",
     "scoreHome": "13:00",
     "status": "PENDIENTE",
     "scoreAway": "",
-    "away": "W100",
-    "phase": "Semifinal",
-    "group": "Semifinal",
-    "stadium": "Estadio Atlanta",
-    "city": "(Atlanta)",
-    "href": "https://www.fifa.com/es/match-centre/match/17/285023/289290/400021540"
+    "away": "Quarterfinal 4 Winner",
+    "phase": "Primera fase",
+    "group": "",
+    "stadium": "Mercedes-Benz Stadium",
+    "city": "(Atlanta, Georgia)",
+    "href": "https://www.fifa.com/es/match-centre/match/760515"
   },
   {
     "date": "sábado 18 julio 2026",
-    "home": "RU101",
+    "home": "Semifinal 1 Loser",
     "scoreHome": "15:00",
     "status": "PENDIENTE",
     "scoreAway": "",
-    "away": "RU102",
-    "phase": "Partido por el tercer puesto",
-    "group": "Partido por el tercer puesto",
-    "stadium": "Estadio Miami",
-    "city": "(Miami)",
-    "href": "https://www.fifa.com/es/match-centre/match/17/285023/289291/400021542"
+    "away": "Semifinal 2 Loser",
+    "phase": "Primera fase",
+    "group": "",
+    "stadium": "Hard Rock Stadium",
+    "city": "(Miami Gardens, Florida)",
+    "href": "https://www.fifa.com/es/match-centre/match/760516"
   },
   {
     "date": "domingo 19 julio 2026",
-    "home": "W101",
+    "home": "Semifinal 1 Winner",
     "scoreHome": "13:00",
     "status": "PENDIENTE",
     "scoreAway": "",
-    "away": "W102",
-    "phase": "Final",
-    "group": "Final",
-    "stadium": "Estadio Nueva York/Nueva Jersey",
-    "city": "(Nueva Jersey)",
-    "href": "https://www.fifa.com/es/match-centre/match/17/285023/289292/400021543"
+    "away": "Semifinal 2 Winner",
+    "phase": "Primera fase",
+    "group": "",
+    "stadium": "MetLife Stadium",
+    "city": "(East Rutherford, New Jersey)",
+    "href": "https://www.fifa.com/es/match-centre/match/760517"
   }
 ]
