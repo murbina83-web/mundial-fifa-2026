@@ -65,9 +65,8 @@ def api_status():
 if __name__ == "__main__":
     import os
     port = int(os.environ.get("PORT", 5000))
-    debug = os.environ.get("RAILWAY_ENVIRONMENT") is None  # False en producción
-    # Si no hay datos, scrapear al inicio
-    if not MATCHES_FILE.exists():
-        print("No hay datos locales. Scrapeando FIFA…")
-        _refresh_bg()
+    debug = os.environ.get("RAILWAY_ENVIRONMENT") is None
+    # Siempre actualizar al arrancar en Railway para tener datos frescos
+    print("Actualizando datos al arrancar…")
+    threading.Thread(target=_refresh_bg, daemon=True).start()
     app.run(host="0.0.0.0", port=port, debug=debug, use_reloader=False)
