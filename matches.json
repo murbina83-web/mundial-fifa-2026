@@ -13,7 +13,7 @@
     "href": "https://www.fifa.com/es/match-centre/match/760415"
   },
   {
-    "date": "jueves 11 junio 2026",
+    "date": "viernes 12 junio 2026",
     "home": "South Korea",
     "scoreHome": "2",
     "status": "FINAL",
@@ -39,7 +39,7 @@
     "href": "https://www.fifa.com/es/match-centre/match/760416"
   },
   {
-    "date": "viernes 12 junio 2026",
+    "date": "sábado 13 junio 2026",
     "home": "EE. UU.",
     "scoreHome": "4",
     "status": "FINAL",
@@ -78,7 +78,7 @@
     "href": "https://www.fifa.com/es/match-centre/match/760419"
   },
   {
-    "date": "sábado 13 junio 2026",
+    "date": "domingo 14 junio 2026",
     "home": "Haití",
     "scoreHome": "0",
     "status": "FINAL",
@@ -91,7 +91,7 @@
     "href": "https://www.fifa.com/es/match-centre/match/760418"
   },
   {
-    "date": "sábado 13 junio 2026",
+    "date": "domingo 14 junio 2026",
     "home": "Australia",
     "scoreHome": "2",
     "status": "FINAL",
@@ -143,7 +143,7 @@
     "href": "https://www.fifa.com/es/match-centre/match/760423"
   },
   {
-    "date": "domingo 14 junio 2026",
+    "date": "lunes 15 junio 2026",
     "home": "Suecia",
     "scoreHome": "5",
     "status": "FINAL",
@@ -195,7 +195,7 @@
     "href": "https://www.fifa.com/es/match-centre/match/760429"
   },
   {
-    "date": "lunes 15 junio 2026",
+    "date": "martes 16 junio 2026",
     "home": "Iran",
     "scoreHome": "2",
     "status": "FINAL",
@@ -234,7 +234,7 @@
     "href": "https://www.fifa.com/es/match-centre/match/760430"
   },
   {
-    "date": "martes 16 junio 2026",
+    "date": "miércoles 17 junio 2026",
     "home": "Argentina",
     "scoreHome": "3",
     "status": "FINAL",
@@ -247,7 +247,7 @@
     "href": "https://www.fifa.com/es/match-centre/match/760433"
   },
   {
-    "date": "martes 16 junio 2026",
+    "date": "miércoles 17 junio 2026",
     "home": "Austria",
     "scoreHome": "3",
     "status": "FINAL",
@@ -299,7 +299,7 @@
     "href": "https://www.fifa.com/es/match-centre/match/760434"
   },
   {
-    "date": "miércoles 17 junio 2026",
+    "date": "jueves 18 junio 2026",
     "home": "Uzbekistán",
     "scoreHome": "1",
     "status": "FINAL",
@@ -351,7 +351,7 @@
     "href": "https://www.fifa.com/es/match-centre/match/760440"
   },
   {
-    "date": "jueves 18 junio 2026",
+    "date": "viernes 19 junio 2026",
     "home": "México",
     "scoreHome": "1",
     "status": "FINAL",
@@ -390,7 +390,7 @@
     "href": "https://www.fifa.com/es/match-centre/match/760445"
   },
   {
-    "date": "viernes 19 junio 2026",
+    "date": "sábado 20 junio 2026",
     "home": "Brasil",
     "scoreHome": "3",
     "status": "FINAL",
@@ -403,7 +403,7 @@
     "href": "https://www.fifa.com/es/match-centre/match/760444"
   },
   {
-    "date": "viernes 19 junio 2026",
+    "date": "sábado 20 junio 2026",
     "home": "Türkiye",
     "scoreHome": "0",
     "status": "FINAL",
@@ -442,7 +442,7 @@
     "href": "https://www.fifa.com/es/match-centre/match/760448"
   },
   {
-    "date": "sábado 20 junio 2026",
+    "date": "domingo 21 junio 2026",
     "home": "Ecuador",
     "scoreHome": "0",
     "status": "FINAL",
@@ -455,7 +455,7 @@
     "href": "https://www.fifa.com/es/match-centre/match/760446"
   },
   {
-    "date": "sábado 20 junio 2026",
+    "date": "domingo 21 junio 2026",
     "home": "Túnez",
     "scoreHome": "0",
     "status": "FINAL",
@@ -507,7 +507,7 @@
     "href": "https://www.fifa.com/es/match-centre/match/760450"
   },
   {
-    "date": "domingo 21 junio 2026",
+    "date": "lunes 22 junio 2026",
     "home": "Nueva Zelanda",
     "scoreHome": "1",
     "status": "FINAL",
@@ -522,7 +522,7 @@
   {
     "date": "lunes 22 junio 2026",
     "home": "Argentina",
-    "scoreHome": "11:00",
+    "scoreHome": "17:00",
     "status": "PENDIENTE",
     "scoreAway": "",
     "away": "Austria",
@@ -535,7 +535,7 @@
   {
     "date": "lunes 22 junio 2026",
     "home": "Francia",
-    "scoreHome": "15:00",
+    "scoreHome": "21:00",
     "status": "PENDIENTE",
     "scoreAway": "",
     "away": "Irak",
@@ -546,9 +546,9 @@
     "href": "https://www.fifa.com/es/match-centre/match/760457"
   },
   {
-    "date": "lunes 22 junio 2026",
+    "date": "martes 23 junio 2026",
     "home": "Noruega",
-    "scoreHome": "18:00",
+    "scoreHome": "00:00",
     "status": "PENDIENTE",
     "scoreAway": "",
     "away": "Senegal",
@@ -559,9 +559,9 @@
     "href": "https://www.fifa.com/es/match-centre/match/760454"
   },
   {
-    "date": "lunes 22 junio 2026",
+    "date": "martes 23 junio 2026",
     "home": "Jordania",
-    "scoreHome": "21:00",
+    "scoreHome": "03:00",
     "status": "PENDIENTE",
     "scoreAway": "",
     "away": "Argelia",
@@ -574,7 +574,7 @@
   {
     "date": "martes 23 junio 2026",
     "home": "Portugal",
-    "scoreHome": "11:00",
+    "scoreHome": "17:00",
     "status": "PENDIENTE",
     "scoreAway": "",
     "away": "Uzbekistán",
@@ -587,7 +587,7 @@
   {
     "date": "martes 23 junio 2026",
     "home": "Inglaterra",
-    "scoreHome": "14:00",
+    "scoreHome": "20:00",
     "status": "PENDIENTE",
     "scoreAway": "",
     "away": "Ghana",
@@ -600,7 +600,7 @@
   {
     "date": "martes 23 junio 2026",
     "home": "Panamá",
-    "scoreHome": "17:00",
+    "scoreHome": "23:00",
     "status": "PENDIENTE",
     "scoreAway": "",
     "away": "Croacia",
@@ -611,9 +611,9 @@
     "href": "https://www.fifa.com/es/match-centre/match/760460"
   },
   {
-    "date": "martes 23 junio 2026",
+    "date": "miércoles 24 junio 2026",
     "home": "Colombia",
-    "scoreHome": "20:00",
+    "scoreHome": "02:00",
     "status": "PENDIENTE",
     "scoreAway": "",
     "away": "Congo DR",
@@ -626,7 +626,7 @@
   {
     "date": "miércoles 24 junio 2026",
     "home": "Bosnia-Herzegovina",
-    "scoreHome": "13:00",
+    "scoreHome": "19:00",
     "status": "PENDIENTE",
     "scoreAway": "",
     "away": "Catar",
@@ -639,7 +639,7 @@
   {
     "date": "miércoles 24 junio 2026",
     "home": "Suiza",
-    "scoreHome": "13:00",
+    "scoreHome": "19:00",
     "status": "PENDIENTE",
     "scoreAway": "",
     "away": "Canadá",
@@ -652,7 +652,7 @@
   {
     "date": "miércoles 24 junio 2026",
     "home": "Marruecos",
-    "scoreHome": "16:00",
+    "scoreHome": "22:00",
     "status": "PENDIENTE",
     "scoreAway": "",
     "away": "Haití",
@@ -665,7 +665,7 @@
   {
     "date": "miércoles 24 junio 2026",
     "home": "Escocia",
-    "scoreHome": "16:00",
+    "scoreHome": "22:00",
     "status": "PENDIENTE",
     "scoreAway": "",
     "away": "Brasil",
@@ -676,9 +676,9 @@
     "href": "https://www.fifa.com/es/match-centre/match/760465"
   },
   {
-    "date": "miércoles 24 junio 2026",
+    "date": "jueves 25 junio 2026",
     "home": "Czechia",
-    "scoreHome": "19:00",
+    "scoreHome": "01:00",
     "status": "PENDIENTE",
     "scoreAway": "",
     "away": "México",
@@ -689,9 +689,9 @@
     "href": "https://www.fifa.com/es/match-centre/match/760467"
   },
   {
-    "date": "miércoles 24 junio 2026",
+    "date": "jueves 25 junio 2026",
     "home": "Sudáfrica",
-    "scoreHome": "19:00",
+    "scoreHome": "01:00",
     "status": "PENDIENTE",
     "scoreAway": "",
     "away": "South Korea",
@@ -704,7 +704,7 @@
   {
     "date": "jueves 25 junio 2026",
     "home": "Curaçao",
-    "scoreHome": "14:00",
+    "scoreHome": "20:00",
     "status": "PENDIENTE",
     "scoreAway": "",
     "away": "Costa de Marfil",
@@ -717,7 +717,7 @@
   {
     "date": "jueves 25 junio 2026",
     "home": "Ecuador",
-    "scoreHome": "14:00",
+    "scoreHome": "20:00",
     "status": "PENDIENTE",
     "scoreAway": "",
     "away": "Alemania",
@@ -730,7 +730,7 @@
   {
     "date": "jueves 25 junio 2026",
     "home": "Japón",
-    "scoreHome": "17:00",
+    "scoreHome": "23:00",
     "status": "PENDIENTE",
     "scoreAway": "",
     "away": "Suecia",
@@ -743,7 +743,7 @@
   {
     "date": "jueves 25 junio 2026",
     "home": "Túnez",
-    "scoreHome": "17:00",
+    "scoreHome": "23:00",
     "status": "PENDIENTE",
     "scoreAway": "",
     "away": "Países Bajos",
@@ -754,9 +754,9 @@
     "href": "https://www.fifa.com/es/match-centre/match/760472"
   },
   {
-    "date": "jueves 25 junio 2026",
+    "date": "viernes 26 junio 2026",
     "home": "Paraguay",
-    "scoreHome": "20:00",
+    "scoreHome": "02:00",
     "status": "PENDIENTE",
     "scoreAway": "",
     "away": "Australia",
@@ -767,9 +767,9 @@
     "href": "https://www.fifa.com/es/match-centre/match/760469"
   },
   {
-    "date": "jueves 25 junio 2026",
+    "date": "viernes 26 junio 2026",
     "home": "Türkiye",
-    "scoreHome": "20:00",
+    "scoreHome": "02:00",
     "status": "PENDIENTE",
     "scoreAway": "",
     "away": "EE. UU.",
@@ -782,7 +782,7 @@
   {
     "date": "viernes 26 junio 2026",
     "home": "Noruega",
-    "scoreHome": "13:00",
+    "scoreHome": "19:00",
     "status": "PENDIENTE",
     "scoreAway": "",
     "away": "Francia",
@@ -795,7 +795,7 @@
   {
     "date": "viernes 26 junio 2026",
     "home": "Senegal",
-    "scoreHome": "13:00",
+    "scoreHome": "19:00",
     "status": "PENDIENTE",
     "scoreAway": "",
     "away": "Irak",
@@ -806,9 +806,9 @@
     "href": "https://www.fifa.com/es/match-centre/match/760474"
   },
   {
-    "date": "viernes 26 junio 2026",
+    "date": "sábado 27 junio 2026",
     "home": "Islas de Cabo Verde",
-    "scoreHome": "18:00",
+    "scoreHome": "00:00",
     "status": "PENDIENTE",
     "scoreAway": "",
     "away": "Arabia Saudí",
@@ -819,9 +819,9 @@
     "href": "https://www.fifa.com/es/match-centre/match/760478"
   },
   {
-    "date": "viernes 26 junio 2026",
+    "date": "sábado 27 junio 2026",
     "home": "Uruguay",
-    "scoreHome": "18:00",
+    "scoreHome": "00:00",
     "status": "PENDIENTE",
     "scoreAway": "",
     "away": "España",
@@ -832,9 +832,9 @@
     "href": "https://www.fifa.com/es/match-centre/match/760479"
   },
   {
-    "date": "viernes 26 junio 2026",
+    "date": "sábado 27 junio 2026",
     "home": "Egipto",
-    "scoreHome": "21:00",
+    "scoreHome": "03:00",
     "status": "PENDIENTE",
     "scoreAway": "",
     "away": "Iran",
@@ -845,9 +845,9 @@
     "href": "https://www.fifa.com/es/match-centre/match/760476"
   },
   {
-    "date": "viernes 26 junio 2026",
+    "date": "sábado 27 junio 2026",
     "home": "Nueva Zelanda",
-    "scoreHome": "21:00",
+    "scoreHome": "03:00",
     "status": "PENDIENTE",
     "scoreAway": "",
     "away": "Bélgica",
@@ -860,7 +860,7 @@
   {
     "date": "sábado 27 junio 2026",
     "home": "Croacia",
-    "scoreHome": "15:00",
+    "scoreHome": "21:00",
     "status": "PENDIENTE",
     "scoreAway": "",
     "away": "Ghana",
@@ -873,7 +873,7 @@
   {
     "date": "sábado 27 junio 2026",
     "home": "Panamá",
-    "scoreHome": "15:00",
+    "scoreHome": "21:00",
     "status": "PENDIENTE",
     "scoreAway": "",
     "away": "Inglaterra",
@@ -886,7 +886,7 @@
   {
     "date": "sábado 27 junio 2026",
     "home": "Colombia",
-    "scoreHome": "17:30",
+    "scoreHome": "23:30",
     "status": "PENDIENTE",
     "scoreAway": "",
     "away": "Portugal",
@@ -899,7 +899,7 @@
   {
     "date": "sábado 27 junio 2026",
     "home": "Congo DR",
-    "scoreHome": "17:30",
+    "scoreHome": "23:30",
     "status": "PENDIENTE",
     "scoreAway": "",
     "away": "Uzbekistán",
@@ -910,9 +910,9 @@
     "href": "https://www.fifa.com/es/match-centre/match/760482"
   },
   {
-    "date": "sábado 27 junio 2026",
+    "date": "domingo 28 junio 2026",
     "home": "Argelia",
-    "scoreHome": "20:00",
+    "scoreHome": "02:00",
     "status": "PENDIENTE",
     "scoreAway": "",
     "away": "Austria",
@@ -923,9 +923,9 @@
     "href": "https://www.fifa.com/es/match-centre/match/760484"
   },
   {
-    "date": "sábado 27 junio 2026",
+    "date": "domingo 28 junio 2026",
     "home": "Jordania",
-    "scoreHome": "20:00",
+    "scoreHome": "02:00",
     "status": "PENDIENTE",
     "scoreAway": "",
     "away": "Argentina",
@@ -938,7 +938,7 @@
   {
     "date": "domingo 28 junio 2026",
     "home": "Group A 2nd Place",
-    "scoreHome": "13:00",
+    "scoreHome": "19:00",
     "status": "PENDIENTE",
     "scoreAway": "",
     "away": "Group B 2nd Place",
@@ -951,7 +951,7 @@
   {
     "date": "lunes 29 junio 2026",
     "home": "Group C Winner",
-    "scoreHome": "11:00",
+    "scoreHome": "17:00",
     "status": "PENDIENTE",
     "scoreAway": "",
     "away": "Group F 2nd Place",
@@ -964,7 +964,7 @@
   {
     "date": "lunes 29 junio 2026",
     "home": "Alemania",
-    "scoreHome": "14:30",
+    "scoreHome": "20:30",
     "status": "PENDIENTE",
     "scoreAway": "",
     "away": "Third Place Group A/B/C/D/F",
@@ -975,9 +975,9 @@
     "href": "https://www.fifa.com/es/match-centre/match/760489"
   },
   {
-    "date": "lunes 29 junio 2026",
+    "date": "martes 30 junio 2026",
     "home": "Group F Winner",
-    "scoreHome": "19:00",
+    "scoreHome": "01:00",
     "status": "PENDIENTE",
     "scoreAway": "",
     "away": "Group C 2nd Place",
@@ -990,7 +990,7 @@
   {
     "date": "martes 30 junio 2026",
     "home": "Group E 2nd Place",
-    "scoreHome": "11:00",
+    "scoreHome": "17:00",
     "status": "PENDIENTE",
     "scoreAway": "",
     "away": "Group I 2nd Place",
@@ -1003,7 +1003,7 @@
   {
     "date": "martes 30 junio 2026",
     "home": "Group I Winner",
-    "scoreHome": "15:00",
+    "scoreHome": "21:00",
     "status": "PENDIENTE",
     "scoreAway": "",
     "away": "Third Place Group C/D/F/G/H",
@@ -1014,9 +1014,9 @@
     "href": "https://www.fifa.com/es/match-centre/match/760492"
   },
   {
-    "date": "martes 30 junio 2026",
+    "date": "miércoles 1 julio 2026",
     "home": "México",
-    "scoreHome": "19:00",
+    "scoreHome": "01:00",
     "status": "PENDIENTE",
     "scoreAway": "",
     "away": "Third Place Group C/E/F/H/I",
@@ -1029,7 +1029,7 @@
   {
     "date": "miércoles 1 julio 2026",
     "home": "Group L Winner",
-    "scoreHome": "10:00",
+    "scoreHome": "16:00",
     "status": "PENDIENTE",
     "scoreAway": "",
     "away": "Third Place Group E/H/I/J/K",
@@ -1042,7 +1042,7 @@
   {
     "date": "miércoles 1 julio 2026",
     "home": "Group G Winner",
-    "scoreHome": "14:00",
+    "scoreHome": "20:00",
     "status": "PENDIENTE",
     "scoreAway": "",
     "away": "Third Place Group A/E/H/I/J",
@@ -1053,9 +1053,9 @@
     "href": "https://www.fifa.com/es/match-centre/match/760493"
   },
   {
-    "date": "miércoles 1 julio 2026",
+    "date": "jueves 2 julio 2026",
     "home": "EE. UU.",
-    "scoreHome": "18:00",
+    "scoreHome": "00:00",
     "status": "PENDIENTE",
     "scoreAway": "",
     "away": "Third Place Group B/E/F/I/J",
@@ -1068,7 +1068,7 @@
   {
     "date": "jueves 2 julio 2026",
     "home": "Group H Winner",
-    "scoreHome": "13:00",
+    "scoreHome": "19:00",
     "status": "PENDIENTE",
     "scoreAway": "",
     "away": "Group J 2nd Place",
@@ -1081,7 +1081,7 @@
   {
     "date": "jueves 2 julio 2026",
     "home": "Group K 2nd Place",
-    "scoreHome": "17:00",
+    "scoreHome": "23:00",
     "status": "PENDIENTE",
     "scoreAway": "",
     "away": "Group L 2nd Place",
@@ -1092,9 +1092,9 @@
     "href": "https://www.fifa.com/es/match-centre/match/760496"
   },
   {
-    "date": "jueves 2 julio 2026",
+    "date": "viernes 3 julio 2026",
     "home": "Group B Winner",
-    "scoreHome": "21:00",
+    "scoreHome": "03:00",
     "status": "PENDIENTE",
     "scoreAway": "",
     "away": "Third Place Group E/F/G/I/J",
@@ -1107,7 +1107,7 @@
   {
     "date": "viernes 3 julio 2026",
     "home": "Group D 2nd Place",
-    "scoreHome": "12:00",
+    "scoreHome": "18:00",
     "status": "PENDIENTE",
     "scoreAway": "",
     "away": "Group G 2nd Place",
@@ -1120,7 +1120,7 @@
   {
     "date": "viernes 3 julio 2026",
     "home": "Group J Winner",
-    "scoreHome": "16:00",
+    "scoreHome": "22:00",
     "status": "PENDIENTE",
     "scoreAway": "",
     "away": "Group H 2nd Place",
@@ -1131,9 +1131,9 @@
     "href": "https://www.fifa.com/es/match-centre/match/760500"
   },
   {
-    "date": "viernes 3 julio 2026",
+    "date": "sábado 4 julio 2026",
     "home": "Group K Winner",
-    "scoreHome": "19:30",
+    "scoreHome": "01:30",
     "status": "PENDIENTE",
     "scoreAway": "",
     "away": "Third Place Group D/E/I/J/L",
@@ -1146,7 +1146,7 @@
   {
     "date": "sábado 4 julio 2026",
     "home": "Round of 32 1 Winner",
-    "scoreHome": "11:00",
+    "scoreHome": "17:00",
     "status": "PENDIENTE",
     "scoreAway": "",
     "away": "Round of 32 3 Winner",
@@ -1159,7 +1159,7 @@
   {
     "date": "sábado 4 julio 2026",
     "home": "Round of 32 2 Winner",
-    "scoreHome": "15:00",
+    "scoreHome": "21:00",
     "status": "PENDIENTE",
     "scoreAway": "",
     "away": "Round of 32 5 Winner",
@@ -1172,7 +1172,7 @@
   {
     "date": "domingo 5 julio 2026",
     "home": "Round of 32 4 Winner",
-    "scoreHome": "14:00",
+    "scoreHome": "20:00",
     "status": "PENDIENTE",
     "scoreAway": "",
     "away": "Round of 32 6 Winner",
@@ -1183,9 +1183,9 @@
     "href": "https://www.fifa.com/es/match-centre/match/760504"
   },
   {
-    "date": "domingo 5 julio 2026",
+    "date": "lunes 6 julio 2026",
     "home": "Round of 32 7 Winner",
-    "scoreHome": "18:00",
+    "scoreHome": "00:00",
     "status": "PENDIENTE",
     "scoreAway": "",
     "away": "Round of 32 8 Winner",
@@ -1198,7 +1198,7 @@
   {
     "date": "lunes 6 julio 2026",
     "home": "Round of 32 11 Winner",
-    "scoreHome": "13:00",
+    "scoreHome": "19:00",
     "status": "PENDIENTE",
     "scoreAway": "",
     "away": "Round of 32 12 Winner",
@@ -1209,9 +1209,9 @@
     "href": "https://www.fifa.com/es/match-centre/match/760506"
   },
   {
-    "date": "lunes 6 julio 2026",
+    "date": "martes 7 julio 2026",
     "home": "Round of 32 9 Winner",
-    "scoreHome": "18:00",
+    "scoreHome": "00:00",
     "status": "PENDIENTE",
     "scoreAway": "",
     "away": "Round of 32 10 Winner",
@@ -1224,7 +1224,7 @@
   {
     "date": "martes 7 julio 2026",
     "home": "Round of 32 14 Winner",
-    "scoreHome": "10:00",
+    "scoreHome": "16:00",
     "status": "PENDIENTE",
     "scoreAway": "",
     "away": "Round of 32 16 Winner",
@@ -1237,7 +1237,7 @@
   {
     "date": "martes 7 julio 2026",
     "home": "Round of 32 13 Winner",
-    "scoreHome": "14:00",
+    "scoreHome": "20:00",
     "status": "PENDIENTE",
     "scoreAway": "",
     "away": "Round of 32 15 Winner",
@@ -1250,7 +1250,7 @@
   {
     "date": "jueves 9 julio 2026",
     "home": "Round of 16 1 Winner",
-    "scoreHome": "14:00",
+    "scoreHome": "20:00",
     "status": "PENDIENTE",
     "scoreAway": "",
     "away": "Round of 16 2 Winner",
@@ -1263,7 +1263,7 @@
   {
     "date": "viernes 10 julio 2026",
     "home": "Round of 16 5 Winner",
-    "scoreHome": "13:00",
+    "scoreHome": "19:00",
     "status": "PENDIENTE",
     "scoreAway": "",
     "away": "Round of 16 6 Winner",
@@ -1276,7 +1276,7 @@
   {
     "date": "sábado 11 julio 2026",
     "home": "Round of 16 3 Winner",
-    "scoreHome": "15:00",
+    "scoreHome": "21:00",
     "status": "PENDIENTE",
     "scoreAway": "",
     "away": "Round of 16 4 Winner",
@@ -1287,9 +1287,9 @@
     "href": "https://www.fifa.com/es/match-centre/match/760512"
   },
   {
-    "date": "sábado 11 julio 2026",
+    "date": "domingo 12 julio 2026",
     "home": "Round of 16 7 Winner",
-    "scoreHome": "19:00",
+    "scoreHome": "01:00",
     "status": "PENDIENTE",
     "scoreAway": "",
     "away": "Round of 16 8 Winner",
@@ -1302,7 +1302,7 @@
   {
     "date": "martes 14 julio 2026",
     "home": "Quarterfinal 1 Winner",
-    "scoreHome": "13:00",
+    "scoreHome": "19:00",
     "status": "PENDIENTE",
     "scoreAway": "",
     "away": "Quarterfinal 2 Winner",
@@ -1315,7 +1315,7 @@
   {
     "date": "miércoles 15 julio 2026",
     "home": "Quarterfinal 3 Winner",
-    "scoreHome": "13:00",
+    "scoreHome": "19:00",
     "status": "PENDIENTE",
     "scoreAway": "",
     "away": "Quarterfinal 4 Winner",
@@ -1328,7 +1328,7 @@
   {
     "date": "sábado 18 julio 2026",
     "home": "Semifinal 1 Loser",
-    "scoreHome": "15:00",
+    "scoreHome": "21:00",
     "status": "PENDIENTE",
     "scoreAway": "",
     "away": "Semifinal 2 Loser",
@@ -1341,7 +1341,7 @@
   {
     "date": "domingo 19 julio 2026",
     "home": "Semifinal 1 Winner",
-    "scoreHome": "13:00",
+    "scoreHome": "19:00",
     "status": "PENDIENTE",
     "scoreAway": "",
     "away": "Semifinal 2 Winner",
