@@ -24,6 +24,11 @@ def _refresh_bg():
     try:
         run_scrape()
         _last_update = datetime.now().strftime("%d/%m/%Y %H:%M")
+        print(f"Actualización completada: {_last_update}", flush=True)
+    except Exception as e:
+        import traceback
+        print(f"ERROR en scraper: {e}", flush=True)
+        traceback.print_exc()
     finally:
         _scraping = False
 
