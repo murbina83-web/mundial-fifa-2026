@@ -9,9 +9,9 @@ from pathlib import Path
 
 MATCHES_FILE = Path(__file__).parent / "matches.json"
 
-ESPN_URL = (
+ESPN_BASE = (
     "https://site.api.espn.com/apis/site/v2/sports/soccer/fifa.world/scoreboard"
-    "?limit=150&dates=20260611-20260719"
+    "?limit=20&dates={date}"
 )
 
 # Traducción de nombres de equipos ESPN → español
@@ -81,10 +81,31 @@ def _time_local(iso: str) -> str:
         return ""
 
 
+def _all_dates() -> list[str]:
+    """Genera todas las fechas del Mundial (11 jun → 19 jul 2026) en formato YYYYMMDD."""
+    from datetime import date, timedelta
+    start = date(2026, 6, 11)
+    end = date(2026, 7, 19)
+    dates = []
+    d = start
+    while d <= end:
+        dates.append(d.strftime("%Y%m%d"))
+        d += timedelta(days=1)
+    return dates
+
+
 def fetch_matches() -> list[dict]:
-    req = urllib.request.Request(ESPN_URL, headers={"User-Agent": "Mozilla/5.0"})
-    raw = json.loads(urllib.request.urlopen(req, timeout=20).read())
-    events = raw.get("events", [])
+    all_events: list = []
+    for date_str in _all_dates():
+        url = ESPN_BASE.format(date=date_str)
+        try:
+            req = urllib.request.Request(url, headers={"User-Agent": "Mozilla/5.0"})
+            raw = json.loads(urllib.request.urlopen(req, timeout=15).read())
+            day_events = raw.get("events", [])
+            all_events.extend(day_events)
+        except Exception as e:
+            print(f"  Aviso: no se pudo obtener {date_str}: {e}")
+    events = all_events
 
     matches = []
     for event in events:
