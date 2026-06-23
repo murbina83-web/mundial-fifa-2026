@@ -574,8 +574,8 @@
   {
     "date": "martes 23 junio 2026",
     "home": "Portugal",
-    "scoreHome": "3",
-    "status": "45'+6'",
+    "scoreHome": "5",
+    "status": "FINAL",
     "scoreAway": "0",
     "away": "Uzbekistán",
     "phase": "Primera fase",
@@ -587,9 +587,9 @@
   {
     "date": "martes 23 junio 2026",
     "home": "Inglaterra",
-    "scoreHome": "20:00",
-    "status": "PENDIENTE",
-    "scoreAway": "",
+    "scoreHome": "0",
+    "status": "3'",
+    "scoreAway": "0",
     "away": "Ghana",
     "phase": "Primera fase",
     "group": "",
