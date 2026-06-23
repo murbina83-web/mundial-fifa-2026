@@ -561,9 +561,9 @@
   {
     "date": "martes 23 junio 2026",
     "home": "Jordania",
-    "scoreHome": "0",
-    "status": "29'",
-    "scoreAway": "0",
+    "scoreHome": "1",
+    "status": "FINAL",
+    "scoreAway": "2",
     "away": "Argelia",
     "phase": "Primera fase",
     "group": "",
@@ -1119,7 +1119,7 @@
   },
   {
     "date": "viernes 3 julio 2026",
-    "home": "Group J Winner",
+    "home": "Argentina",
     "scoreHome": "22:00",
     "status": "PENDIENTE",
     "scoreAway": "",
