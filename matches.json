@@ -757,7 +757,7 @@
     "date": "viernes 26 junio 2026",
     "home": "Paraguay",
     "scoreHome": "0",
-    "status": "73'",
+    "status": "FINAL",
     "scoreAway": "0",
     "away": "Australia",
     "phase": "Primera fase",
@@ -769,8 +769,8 @@
   {
     "date": "viernes 26 junio 2026",
     "home": "Türkiye",
-    "scoreHome": "2",
-    "status": "73'",
+    "scoreHome": "3",
+    "status": "FINAL",
     "scoreAway": "2",
     "away": "EE. UU.",
     "phase": "Primera fase",
@@ -1106,7 +1106,7 @@
   },
   {
     "date": "viernes 3 julio 2026",
-    "home": "Group D 2nd Place",
+    "home": "Australia",
     "scoreHome": "18:00",
     "status": "PENDIENTE",
     "scoreAway": "",
