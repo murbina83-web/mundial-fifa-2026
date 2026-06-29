@@ -951,8 +951,8 @@
   {
     "date": "lunes 29 junio 2026",
     "home": "Brasil",
-    "scoreHome": "0",
-    "status": "50'",
+    "scoreHome": "2",
+    "status": "FINAL",
     "scoreAway": "1",
     "away": "Japón",
     "phase": "Primera fase",
@@ -964,9 +964,9 @@
   {
     "date": "lunes 29 junio 2026",
     "home": "Alemania",
-    "scoreHome": "20:30",
-    "status": "PENDIENTE",
-    "scoreAway": "",
+    "scoreHome": "0",
+    "status": "45'+5'",
+    "scoreAway": "1",
     "away": "Paraguay",
     "phase": "Primera fase",
     "group": "",
@@ -1171,7 +1171,7 @@
   },
   {
     "date": "domingo 5 julio 2026",
-    "home": "Round of 32 4 Winner",
+    "home": "Brasil",
     "scoreHome": "20:00",
     "status": "PENDIENTE",
     "scoreAway": "",
