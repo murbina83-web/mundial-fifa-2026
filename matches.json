@@ -1055,9 +1055,9 @@
   {
     "date": "jueves 2 julio 2026",
     "home": "EE. UU.",
-    "scoreHome": "00:00",
-    "status": "PENDIENTE",
-    "scoreAway": "",
+    "scoreHome": "2",
+    "status": "FINAL",
+    "scoreAway": "0",
     "away": "Bosnia-Herzegovina",
     "phase": "Primera fase",
     "group": "",
@@ -1210,7 +1210,7 @@
   },
   {
     "date": "martes 7 julio 2026",
-    "home": "Round of 32 9 Winner",
+    "home": "EE. UU.",
     "scoreHome": "00:00",
     "status": "PENDIENTE",
     "scoreAway": "",
