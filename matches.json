@@ -1094,9 +1094,9 @@
   {
     "date": "viernes 3 julio 2026",
     "home": "Suiza",
-    "scoreHome": "03:00",
-    "status": "PENDIENTE",
-    "scoreAway": "",
+    "scoreHome": "2",
+    "status": "FINAL",
+    "scoreAway": "0",
     "away": "Argelia",
     "phase": "Primera fase",
     "group": "",
@@ -1236,7 +1236,7 @@
   },
   {
     "date": "martes 7 julio 2026",
-    "home": "Round of 32 13 Winner",
+    "home": "Suiza",
     "scoreHome": "20:00",
     "status": "PENDIENTE",
     "scoreAway": "",
