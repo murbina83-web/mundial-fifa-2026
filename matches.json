@@ -1081,9 +1081,9 @@
   {
     "date": "jueves 2 julio 2026",
     "home": "Portugal",
-    "scoreHome": "0",
-    "status": "5'",
-    "scoreAway": "0",
+    "scoreHome": "2",
+    "status": "FINAL",
+    "scoreAway": "1",
     "away": "Croacia",
     "phase": "Primera fase",
     "group": "",
@@ -1197,7 +1197,7 @@
   },
   {
     "date": "lunes 6 julio 2026",
-    "home": "Round of 32 11 Winner",
+    "home": "Portugal",
     "scoreHome": "19:00",
     "status": "PENDIENTE",
     "scoreAway": "",
