@@ -1172,9 +1172,9 @@
   {
     "date": "domingo 5 julio 2026",
     "home": "Brasil",
-    "scoreHome": "0",
-    "status": "45'+6'",
-    "scoreAway": "0",
+    "scoreHome": "1",
+    "status": "FINAL",
+    "scoreAway": "2",
     "away": "Noruega",
     "phase": "Primera fase",
     "group": "",
@@ -1275,7 +1275,7 @@
   },
   {
     "date": "sábado 11 julio 2026",
-    "home": "Round of 16 3 Winner",
+    "home": "Noruega",
     "scoreHome": "21:00",
     "status": "PENDIENTE",
     "scoreAway": "",
