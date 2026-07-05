@@ -1160,7 +1160,7 @@
     "date": "sábado 4 julio 2026",
     "home": "Paraguay",
     "scoreHome": "0",
-    "status": "90'+3'",
+    "status": "FINAL",
     "scoreAway": "1",
     "away": "Francia",
     "phase": "Primera fase",
@@ -1249,7 +1249,7 @@
   },
   {
     "date": "jueves 9 julio 2026",
-    "home": "Round of 16 1 Winner",
+    "home": "Francia",
     "scoreHome": "20:00",
     "status": "PENDIENTE",
     "scoreAway": "",
