@@ -1250,8 +1250,8 @@
   {
     "date": "jueves 9 julio 2026",
     "home": "Francia",
-    "scoreHome": "0",
-    "status": "57'",
+    "scoreHome": "2",
+    "status": "FINAL",
     "scoreAway": "0",
     "away": "Marruecos",
     "phase": "Primera fase",
@@ -1301,7 +1301,7 @@
   },
   {
     "date": "martes 14 julio 2026",
-    "home": "Quarterfinal 1 Winner",
+    "home": "Francia",
     "scoreHome": "19:00",
     "status": "PENDIENTE",
     "scoreAway": "",
