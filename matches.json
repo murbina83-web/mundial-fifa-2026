@@ -1303,7 +1303,7 @@
     "date": "martes 14 julio 2026",
     "home": "Francia",
     "scoreHome": "0",
-    "status": "90'+6'",
+    "status": "FINAL",
     "scoreAway": "2",
     "away": "España",
     "phase": "Primera fase",
@@ -1327,7 +1327,7 @@
   },
   {
     "date": "sábado 18 julio 2026",
-    "home": "Semifinal 1 Loser",
+    "home": "Francia",
     "scoreHome": "21:00",
     "status": "PENDIENTE",
     "scoreAway": "",
@@ -1340,7 +1340,7 @@
   },
   {
     "date": "domingo 19 julio 2026",
-    "home": "Semifinal 1 Winner",
+    "home": "España",
     "scoreHome": "19:00",
     "status": "PENDIENTE",
     "scoreAway": "",
