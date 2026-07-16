@@ -1105,6 +1105,45 @@
     "href": "https://www.fifa.com/es/match-centre/match/760498"
   },
   {
+    "date": "viernes 3 julio 2026",
+    "home": "Australia",
+    "scoreHome": "1",
+    "status": "FINAL",
+    "scoreAway": "1",
+    "away": "Egipto",
+    "phase": "Egypt advance 4-2 on penalties",
+    "group": "Egypt advance 4-2 on penalties",
+    "stadium": "AT&T Stadium",
+    "city": "(Arlington, Texas)",
+    "href": "https://www.fifa.com/es/match-centre/match/760499"
+  },
+  {
+    "date": "viernes 3 julio 2026",
+    "home": "Argentina",
+    "scoreHome": "3",
+    "status": "FINAL",
+    "scoreAway": "2",
+    "away": "Islas de Cabo Verde",
+    "phase": "Primera fase",
+    "group": "",
+    "stadium": "Hard Rock Stadium",
+    "city": "(Miami Gardens, Florida)",
+    "href": "https://www.fifa.com/es/match-centre/match/760500"
+  },
+  {
+    "date": "sábado 4 julio 2026",
+    "home": "Colombia",
+    "scoreHome": "1",
+    "status": "FINAL",
+    "scoreAway": "0",
+    "away": "Ghana",
+    "phase": "Primera fase",
+    "group": "",
+    "stadium": "GEHA Field at Arrowhead Stadium",
+    "city": "(Kansas City, Missouri)",
+    "href": "https://www.fifa.com/es/match-centre/match/760501"
+  },
+  {
     "date": "sábado 4 julio 2026",
     "home": "Canadá",
     "scoreHome": "0",
